@@ -1,0 +1,24 @@
+Error 2021-09-27 17:44:27: readdir() failed for "/Users/Chase/.Trash" (Error: EPERM: operation not permitted, scandir '/Users/Chase/.Trash')
+Error 2021-09-27 17:44:27: readdir() failed for "/Users/Chase/Library/Autosave Information" (Error: EPERM: operation not permitted, scandir '/Users/Chase/Library/Autosave Information')
+Error 2021-09-27 17:44:27: readdir() failed for "/Users/Chase/Library/Calendars" (Error: EPERM: operation not permitted, scandir '/Users/Chase/Library/Calendars')
+Error 2021-09-27 17:44:27: readdir() failed for "/Users/Chase/Library/IdentityServices" (Error: EPERM: operation not permitted, scandir '/Users/Chase/Library/IdentityServices')
+Error 2021-09-27 17:44:27: readdir() failed for "/Users/Chase/Library/Mail" (Error: EPERM: operation not permitted, scandir '/Users/Chase/Library/Mail')
+Error 2021-09-27 17:44:27: readdir() failed for "/Users/Chase/Library/PersonalizationPortrait" (Error: EPERM: operation not permitted, scandir '/Users/Chase/Library/PersonalizationPortrait')
+Error 2021-09-27 17:44:27: readdir() failed for "/Users/Chase/Library/Suggestions" (Error: EPERM: operation not permitted, scandir '/Users/Chase/Library/Suggestions')
+Python interpreter path: /usr/bin/python3
+Starting Pylance language server.
+Error 2021-09-27 17:44:28: Failed to check if file needs to be fixed EntryNotFound (FileSystemError): Unable to read file '/Users/Chase/.vscode/settings.json' (Error: Unable to resolve non-existing file '/Users/Chase/.vscode/settings.json')
+    at _handleError (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:160087)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at y.readText (/Users/Chase/.vscode/extensions/ms-python.python-2021.9.1246542782/out/client/extension.js:9:314351)
+    at p.doesFileNeedToBeFixed (/Users/Chase/.vscode/extensions/ms-python.python-2021.9.1246542782/out/client/extension.js:59:823969)
+    at /Users/Chase/.vscode/extensions/ms-python.python-2021.9.1246542782/out/client/extension.js:59:823096
+    at async Promise.all (index 1)
+    at p.getFilesToBeFixed (/Users/Chase/.vscode/extensions/ms-python.python-2021.9.1246542782/out/client/extension.js:59:823042)
+    at p.updateTestSettings (/Users/Chase/.vscode/extensions/ms-python.python-2021.9.1246542782/out/client/extension.js:59:822669) {
+  code: 'FileNotFound'
+}
+> conda --version
+Error 2021-09-27 17:45:59: Error while running worker[Worker 2]. undefined
+Error 2021-09-27 17:45:59: Error while running worker[Worker 1]. undefined

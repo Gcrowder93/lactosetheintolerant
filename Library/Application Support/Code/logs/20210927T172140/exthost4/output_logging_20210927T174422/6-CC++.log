@@ -1,0 +1,14 @@
+Updating C/C++ dependencies...
+
+Downloading package 'C/C++ language components (macOS / ARM64)' (11977 KB)  Done!
+Downloading package 'ClangFormat (macOS / ARM64)' (782 KB)  Done!
+Downloading package 'OpenDebugAD7 (macOS x64)' (32063 KB)  Done!
+Downloading package 'LLDB-MI (macOS Mojave and higher)' (829 KB)  Done!
+
+Installing package 'C/C++ language components (macOS / ARM64)'
+Installing package 'ClangFormat (macOS / ARM64)'
+Installing package 'OpenDebugAD7 (macOS x64)'
+Installing package 'LLDB-MI (macOS Mojave and higher)'
+
+Finished installing dependencies
+

@@ -1,0 +1,17 @@
+2021/09/27-19:03:45.351 11053 Creating DB /Users/Chase/Library/Application Support/BraveSoftware/Brave-Browser/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom since it was missing.
+2021/09/27-19:03:45.405 11053 Reusing MANIFEST /Users/Chase/Library/Application Support/BraveSoftware/Brave-Browser/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
+2021/09/27-19:03:48.780 197af Level-0 table #5: started
+2021/09/27-19:03:48.847 197af Level-0 table #5: 8081086 bytes OK
+2021/09/27-19:03:48.882 197af Delete type=0 #3
+2021/09/27-19:03:55.432 11053 Level-0 table #7: started
+2021/09/27-19:03:55.515 11053 Level-0 table #7: 6559400 bytes OK
+2021/09/27-19:03:55.553 11053 Delete type=0 #4
+2021/09/27-19:04:46.396 197af Level-0 table #9: started
+2021/09/27-19:04:46.451 197af Level-0 table #9: 6559643 bytes OK
+2021/09/27-19:04:46.488 197af Delete type=0 #6
+2021/09/27-20:03:55.347 1e3f7 Level-0 table #11: started
+2021/09/27-20:03:55.443 1e3f7 Level-0 table #11: 6559551 bytes OK
+2021/09/27-20:03:55.490 1e3f7 Delete type=0 #8
+2021/09/27-20:04:46.325 24aa3 Level-0 table #13: started
+2021/09/27-20:04:46.382 24aa3 Level-0 table #13: 6559654 bytes OK
+2021/09/27-20:04:46.417 24aa3 Delete type=0 #10

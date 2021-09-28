@@ -1,0 +1,192 @@
+status
+ls
+git status
+git add -A
+git status
+git --version
+git update
+git update-ref
+sudo apt-get update\
+
+sudo apt-get install git\
+
+sudo apt-get update\
+
+sudo apt-get update\
+
+git --version
+brew update
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"\
+
+brew update
+brew upgrade git
+brew update
+xcode-select --install\
+
+software update
+curl -fsSL -o install.sh https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh\
+
+/bin/bash install.sh\
+
+curl -fsSL -o install.sh https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh\
+
+nano ~/.zshrc\
+
+source ~/.zshrc\
+
+brew doctor\
+
+/opt/homebrew
+xcode-select --install\
+
+curl -O https://raw.githubusercontent.com/Homebrew/install/master/install.sh\
+
+vim install.sh\
+
+bash install.sh
+export PATH=/opt/homebrew/bin:$PATH\
+
+source ~/.zshrc
+bash install.sh\
+
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"\
+
+brew update
+brew upgrade git
+brew install git\
+
+brew upgrade git
+git --version
+git status
+brew install bash\
+
+npm --version\
+
+node --version\
+
+code --version\
+
+eslint --version\
+
+cat ~/.gitconfig\
+
+git config --list\
+
+eslint --update
+git --version\
+\
+node --version\
+\
+npm --version\
+\
+code --version\
+\
+eslint --version\
+\
+git config --list\
+
+xcode-select --install\
+
+Software Update
+node --version\
+
+npm --version\
+
+code --version\
+
+eslint --version\
+
+git config --list\
+
+. code
+code .
+brew install python\
+
+brew install python\
+
+git status
+git push
+git status
+brew --version\
+
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"\
+
+echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> /Users/Chase/.zprofile\
+    eval "$(/opt/homebrew/bin/brew shellenv)"
+echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> /Users/Chase/.zprofile
+eval "$(/opt/homebrew/bin/brew shellenv)"
+brew --version
+git --version
+node --version
+git config --list
+git config --global user.name 'Chase'
+git config --global user.email 'Gcrowder93@gmail.com'
+git config --list
+npm i -g eslint\
+
+sudo npm i -g eslint
+eslint --version
+npm --version\
+
+code --version\
+
+eslint --version\
+
+git config --list\
+
+git --version\
+
+node --version\
+
+brew --version\
+
+brew --update
+$ brew install wget\
+
+brew install wget
+find Cellar
+find Cellar
+cd
+ls
+pwd
+cd /local
+ brew create https://foo.com/bar-1.0.tgz
+brew update
+git update
+git status
+git --version\
+
+code --version
+npm i -g eslint\
+
+sudo npm i -g eslint\
+
+eslint --version
+git push
+    git push --set-upstream origin admin-panel\
+
+git status
+git push
+    git push --set-upstream origin admin-panel\
+
+    git push --set-upstream origin admin-panel\
+
+git add -A
+git status
+ls -la /usr/local/lib/node_modules\
+
+sudo chown -R `whoami` ~/.npm\
+
+sudo chown -R `whoami` /usr/local/lib/node_modules\
+
+npm install -g
+docker run -p 8080:8080 -v "${PWD}/.local/share/code-server:/home/coder/.local/share/code-server" -v "$PWD:/home/coder/project" -d codercom/code-server:v2\
+
+/Users/Chase/install.sh; exit
+/Users/Chase/install.sh; exit
+git status
+git commit -m
+git add -A
+git status
+git push
+git add -A

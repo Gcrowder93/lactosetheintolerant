@@ -1,0 +1,5 @@
+2021/09/27-17:32:24.887 5127 Creating DB /Users/Chase/Library/Application Support/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb since it was missing.
+2021/09/27-17:32:24.969 5127 Reusing MANIFEST /Users/Chase/Library/Application Support/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2021/09/27-18:06:15.306 4063 Level-0 table #5: started
+2021/09/27-18:06:15.328 4063 Level-0 table #5: 17543 bytes OK
+2021/09/27-18:06:15.365 4063 Delete type=0 #3

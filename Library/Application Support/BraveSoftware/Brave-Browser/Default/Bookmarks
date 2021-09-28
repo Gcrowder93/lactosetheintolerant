@@ -1,0 +1,40 @@
+{
+   "checksum": "75c908c8dc611ac28af43224e099191e",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13277268585470988",
+            "guid": "f4101583-a0bc-4286-8f6a-712a2878f555",
+            "id": "5",
+            "name": "GitHub",
+            "type": "url",
+            "url": "https://github.com/"
+         } ],
+         "date_added": "13277266447474351",
+         "date_modified": "13277268585470988",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Bookmarks",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13277266447474362",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Other Bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13277266447474364",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Mobile Bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

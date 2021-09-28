@@ -1,0 +1,27 @@
+[2021-09-27 19:17:11.283] [exthost] [info] extension host started
+[2021-09-27 19:17:11.299] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-09-27 19:17:11.299] [exthost] [info] ExtensionService#loadCommonJSModule file:///Applications/Visual Studio Code 5.04.49 PM.app/Contents/Resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-09-27 19:17:11.306] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-09-27 19:17:11.306] [exthost] [info] ExtensionService#loadCommonJSModule file:///Applications/Visual Studio Code 5.04.49 PM.app/Contents/Resources/app/extensions/debug-auto-launch/dist/extension
+[2021-09-27 19:17:11.307] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-09-27 19:17:11.307] [exthost] [info] ExtensionService#loadCommonJSModule file:///Applications/Visual Studio Code 5.04.49 PM.app/Contents/Resources/app/extensions/git/dist/main
+[2021-09-27 19:17:11.316] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag {"startup":true,"extensionId":{"value":"formulahendry.auto-rename-tag","_lower":"formulahendry.auto-rename-tag"},"activationEvent":"*"}
+[2021-09-27 19:17:11.317] [exthost] [info] ExtensionService#loadCommonJSModule file:///Users/Chase/.vscode/extensions/formulahendry.auto-rename-tag-0.1.8/packages/extension/dist/extensionMain.js
+[2021-09-27 19:17:11.327] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim {"startup":true,"extensionId":{"value":"vscodevim.vim","_lower":"vscodevim.vim"},"activationEvent":"*"}
+[2021-09-27 19:17:11.327] [exthost] [info] ExtensionService#loadCommonJSModule file:///Users/Chase/.vscode/extensions/vscodevim.vim-1.21.7/out/extension
+[2021-09-27 19:17:11.410] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-09-27 19:17:11.410] [exthost] [info] ExtensionService#loadCommonJSModule file:///Applications/Visual Studio Code 5.04.49 PM.app/Contents/Resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-09-27 19:17:11.475] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-09-27 19:17:11.475] [exthost] [info] ExtensionService#loadCommonJSModule file:///Applications/Visual Studio Code 5.04.49 PM.app/Contents/Resources/app/extensions/github-authentication/dist/extension.js
+[2021-09-27 19:17:11.573] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-09-27 19:17:11.573] [exthost] [info] ExtensionService#loadCommonJSModule file:///Applications/Visual Studio Code 5.04.49 PM.app/Contents/Resources/app/extensions/github/dist/extension.js
+[2021-09-27 19:17:11.576] [exthost] [info] eager extensions activated
+[2021-09-27 19:17:11.576] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-09-27 19:17:11.576] [exthost] [info] ExtensionService#loadCommonJSModule file:///Applications/Visual Studio Code 5.04.49 PM.app/Contents/Resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-09-27 19:17:11.580] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-09-27 19:17:11.580] [exthost] [info] ExtensionService#loadCommonJSModule file:///Applications/Visual Studio Code 5.04.49 PM.app/Contents/Resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-09-27 19:17:11.581] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":false,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"onStartupFinished"}
+[2021-09-27 19:17:11.581] [exthost] [info] ExtensionService#loadCommonJSModule file:///Users/Chase/.vscode/extensions/esbenp.prettier-vscode-9.0.0/dist/extension
+[2021-09-27 19:17:15.311] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-09-27 19:17:15.317] [exthost] [error] Error: ENOENT: no such file or directory, open '/Users/Chase/Library/Application Support/Code/User/globalStorage/vscodevim.vim/.registers'
+[2021-09-27 19:17:16.322] [exthost] [info] exiting with code 0

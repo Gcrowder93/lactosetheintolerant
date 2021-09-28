@@ -1,0 +1,196 @@
+[2021-09-27 17:21:51.616] [sharedprocess] [info] [logs cleanup]: Starting to clean up old logs.
+[2021-09-27 17:22:11.616] [sharedprocess] [info] [code cache cleanup]: Starting to clean up old code cache folders.
+[2021-09-27 17:22:11.617] [sharedprocess] [info] [storage cleanup]: Starting to clean up storage folders.
+[2021-09-27 17:22:11.621] [sharedprocess] [info] [storage cleanup]: Deleting storage folder 1632788470315.
+[2021-09-27 17:22:21.614] [sharedprocess] [info] [language pack cache cleanup]: Starting to clean up unused language packs.
+[2021-09-27 17:44:19.221] [sharedprocess] [info] Installing extension: visualstudioexptteam.vscodeintellicode
+[2021-09-27 17:44:19.221] [sharedprocess] [info] Installing the extension without checking dependencies and pack visualstudioexptteam.vscodeintellicode
+[2021-09-27 17:44:19.239] [sharedprocess] [info] Installing extension: dbaeumer.vscode-eslint
+[2021-09-27 17:44:19.239] [sharedprocess] [info] Installing the extension without checking dependencies and pack dbaeumer.vscode-eslint
+[2021-09-27 17:44:19.249] [sharedprocess] [info] Installing extension: vscjava.vscode-java-pack
+[2021-09-27 17:44:19.249] [sharedprocess] [info] Installing the extension without checking dependencies and pack vscjava.vscode-java-pack
+[2021-09-27 17:44:19.249] [sharedprocess] [info] Installing extension: vscjava.vscode-maven
+[2021-09-27 17:44:19.249] [sharedprocess] [info] Installing the extension without checking dependencies and pack vscjava.vscode-maven
+[2021-09-27 17:44:19.256] [sharedprocess] [info] Installing extension: vscjava.vscode-java-dependency
+[2021-09-27 17:44:19.256] [sharedprocess] [info] Installing the extension without checking dependencies and pack vscjava.vscode-java-dependency
+[2021-09-27 17:44:19.256] [sharedprocess] [info] Installing extension: vscjava.vscode-java-debug
+[2021-09-27 17:44:19.256] [sharedprocess] [info] Installing the extension without checking dependencies and pack vscjava.vscode-java-debug
+[2021-09-27 17:44:19.257] [sharedprocess] [info] Installing extension: vscjava.vscode-java-test
+[2021-09-27 17:44:19.257] [sharedprocess] [info] Installing the extension without checking dependencies and pack vscjava.vscode-java-test
+[2021-09-27 17:44:19.257] [sharedprocess] [info] Installing extension: ms-python.vscode-pylance
+[2021-09-27 17:44:19.257] [sharedprocess] [info] Installing the extension without checking dependencies and pack ms-python.vscode-pylance
+[2021-09-27 17:44:19.278] [sharedprocess] [info] Installing extension: formulahendry.auto-rename-tag
+[2021-09-27 17:44:19.278] [sharedprocess] [info] Installing the extension without checking dependencies and pack formulahendry.auto-rename-tag
+[2021-09-27 17:44:19.300] [sharedprocess] [info] Installing extension: coenraads.bracket-pair-colorizer
+[2021-09-27 17:44:19.300] [sharedprocess] [info] Installing the extension without checking dependencies and pack coenraads.bracket-pair-colorizer
+[2021-09-27 17:44:19.336] [sharedprocess] [info] Installing extension: ms-vscode.sublime-keybindings
+[2021-09-27 17:44:19.336] [sharedprocess] [info] Installing the extension without checking dependencies and pack ms-vscode.sublime-keybindings
+[2021-09-27 17:44:19.337] [sharedprocess] [info] Installing extension: shyykoserhiy.vscode-spotify
+[2021-09-27 17:44:19.337] [sharedprocess] [info] Installing the extension without checking dependencies and pack shyykoserhiy.vscode-spotify
+[2021-09-27 17:44:19.342] [sharedprocess] [info] Installing extension: ms-python.python
+[2021-09-27 17:44:19.342] [sharedprocess] [info] Installing the extension without checking dependencies and pack ms-python.python
+[2021-09-27 17:44:19.343] [sharedprocess] [info] Installing extension: ms-vscode.cpptools
+[2021-09-27 17:44:19.343] [sharedprocess] [info] Installing the extension without checking dependencies and pack ms-vscode.cpptools
+[2021-09-27 17:44:19.344] [sharedprocess] [info] Installing extension: ms-vscode.cmake-tools
+[2021-09-27 17:44:19.344] [sharedprocess] [info] Installing the extension without checking dependencies and pack ms-vscode.cmake-tools
+[2021-09-27 17:44:19.354] [sharedprocess] [info] Installing extension: twxs.cmake
+[2021-09-27 17:44:19.354] [sharedprocess] [info] Installing the extension without checking dependencies and pack twxs.cmake
+[2021-09-27 17:44:19.355] [sharedprocess] [info] Installing extension: davidanson.vscode-markdownlint
+[2021-09-27 17:44:19.355] [sharedprocess] [info] Installing the extension without checking dependencies and pack davidanson.vscode-markdownlint
+[2021-09-27 17:44:19.355] [sharedprocess] [info] Installing extension: ritwickdey.liveserver
+[2021-09-27 17:44:19.355] [sharedprocess] [info] Installing the extension without checking dependencies and pack ritwickdey.liveserver
+[2021-09-27 17:44:19.371] [sharedprocess] [info] Installing extension: ms-dotnettools.csharp
+[2021-09-27 17:44:19.372] [sharedprocess] [info] Installing the extension without checking dependencies and pack ms-dotnettools.csharp
+[2021-09-27 17:44:19.372] [sharedprocess] [info] Installing extension: ecmel.vscode-html-css
+[2021-09-27 17:44:19.372] [sharedprocess] [info] Installing the extension without checking dependencies and pack ecmel.vscode-html-css
+[2021-09-27 17:44:19.372] [sharedprocess] [info] Installing extension: ms-toolsai.jupyter-keymap
+[2021-09-27 17:44:19.372] [sharedprocess] [info] Installing the extension without checking dependencies and pack ms-toolsai.jupyter-keymap
+[2021-09-27 17:44:19.372] [sharedprocess] [info] Installing extension: mgesbert.python-path
+[2021-09-27 17:44:19.372] [sharedprocess] [info] Installing the extension without checking dependencies and pack mgesbert.python-path
+[2021-09-27 17:44:19.446] [sharedprocess] [info] Installing extension: redhat.java
+[2021-09-27 17:44:19.446] [sharedprocess] [info] Installing the extension without checking dependencies and pack redhat.java
+[2021-09-27 17:44:19.447] [sharedprocess] [info] Installing extension: vscodevim.vim
+[2021-09-27 17:44:19.447] [sharedprocess] [info] Installing the extension without checking dependencies and pack vscodevim.vim
+[2021-09-27 17:44:19.457] [sharedprocess] [info] Installing extension: ms-toolsai.jupyter
+[2021-09-27 17:44:19.458] [sharedprocess] [info] Installing the extension without checking dependencies and pack ms-toolsai.jupyter
+[2021-09-27 17:44:19.531] [sharedprocess] [info] Installing extension: esbenp.prettier-vscode
+[2021-09-27 17:44:19.531] [sharedprocess] [info] Installing the extension without checking dependencies and pack esbenp.prettier-vscode
+[2021-09-27 17:44:19.560] [sharedprocess] [info] Installing extension: ms-vscode.vscode-typescript-next
+[2021-09-27 17:44:19.560] [sharedprocess] [info] Installing the extension without checking dependencies and pack ms-vscode.vscode-typescript-next
+[2021-09-27 17:44:20.259] [sharedprocess] [info] Downloaded extension: vscjava.vscode-java-dependency /Users/Chase/Library/Application Support/Code/CachedExtensionVSIXs/vscjava.vscode-java-dependency-0.18.8
+[2021-09-27 17:44:20.302] [sharedprocess] [info] Downloaded extension: dbaeumer.vscode-eslint /Users/Chase/Library/Application Support/Code/CachedExtensionVSIXs/dbaeumer.vscode-eslint-2.1.25
+[2021-09-27 17:44:20.321] [sharedprocess] [info] Extracted extension to /Users/Chase/.vscode/extensions/.f3503375-68f5-4b5c-82c1-188eb3434473: vscjava.vscode-java-dependency
+[2021-09-27 17:44:20.360] [sharedprocess] [info] Renamed to /Users/Chase/.vscode/extensions/vscjava.vscode-java-dependency-0.18.8
+[2021-09-27 17:44:20.361] [sharedprocess] [info] Extracting completed. vscjava.vscode-java-dependency
+[2021-09-27 17:44:20.399] [sharedprocess] [info] Extension installed successfully: vscjava.vscode-java-dependency
+[2021-09-27 17:44:20.668] [sharedprocess] [info] Downloaded extension: ms-dotnettools.csharp /Users/Chase/Library/Application Support/Code/CachedExtensionVSIXs/ms-dotnettools.csharp-1.23.15
+[2021-09-27 17:44:20.668] [sharedprocess] [info] Extracted extension to /Users/Chase/.vscode/extensions/.a6fded7e-ec60-4827-bc4d-ff6f355a7bae: ms-dotnettools.csharp
+[2021-09-27 17:44:20.668] [sharedprocess] [info] Renamed to /Users/Chase/.vscode/extensions/ms-dotnettools.csharp-1.23.15
+[2021-09-27 17:44:20.668] [sharedprocess] [info] Extracting completed. ms-dotnettools.csharp
+[2021-09-27 17:44:20.668] [sharedprocess] [info] Extension installed successfully: ms-dotnettools.csharp
+[2021-09-27 17:44:20.710] [sharedprocess] [info] Downloaded extension: coenraads.bracket-pair-colorizer /Users/Chase/Library/Application Support/Code/CachedExtensionVSIXs/coenraads.bracket-pair-colorizer-1.0.61
+[2021-09-27 17:44:20.711] [sharedprocess] [info] Downloaded extension: ms-vscode.sublime-keybindings /Users/Chase/Library/Application Support/Code/CachedExtensionVSIXs/ms-vscode.sublime-keybindings-4.0.10
+[2021-09-27 17:44:20.725] [sharedprocess] [info] Downloaded extension: ms-toolsai.jupyter-keymap /Users/Chase/Library/Application Support/Code/CachedExtensionVSIXs/ms-toolsai.jupyter-keymap-1.0.0
+[2021-09-27 17:44:20.763] [sharedprocess] [info] Downloaded extension: vscjava.vscode-java-test /Users/Chase/Library/Application Support/Code/CachedExtensionVSIXs/vscjava.vscode-java-test-0.32.0
+[2021-09-27 17:44:20.779] [sharedprocess] [info] Extracted extension to /Users/Chase/.vscode/extensions/.50c94d5a-e9d1-4c6a-b665-6879bfc487f3: ms-toolsai.jupyter-keymap
+[2021-09-27 17:44:20.802] [sharedprocess] [info] Renamed to /Users/Chase/.vscode/extensions/ms-toolsai.jupyter-keymap-1.0.0
+[2021-09-27 17:44:20.808] [sharedprocess] [info] Extracting completed. ms-toolsai.jupyter-keymap
+[2021-09-27 17:44:20.828] [sharedprocess] [info] Downloaded extension: ms-vscode.cmake-tools /Users/Chase/Library/Application Support/Code/CachedExtensionVSIXs/ms-vscode.cmake-tools-1.8.1
+[2021-09-27 17:44:20.848] [sharedprocess] [info] Extension installed successfully: ms-toolsai.jupyter-keymap
+[2021-09-27 17:44:20.882] [sharedprocess] [info] Downloaded extension: ritwickdey.liveserver /Users/Chase/Library/Application Support/Code/CachedExtensionVSIXs/ritwickdey.liveserver-5.6.1
+[2021-09-27 17:44:20.989] [sharedprocess] [info] Downloaded extension: vscjava.vscode-java-debug /Users/Chase/Library/Application Support/Code/CachedExtensionVSIXs/vscjava.vscode-java-debug-0.36.0
+[2021-09-27 17:44:21.012] [sharedprocess] [info] Extracted extension to /Users/Chase/.vscode/extensions/.91ab159d-43e7-4cb9-8c49-12cacd918a0b: ms-vscode.sublime-keybindings
+[2021-09-27 17:44:21.017] [sharedprocess] [info] Extracted extension to /Users/Chase/.vscode/extensions/.25dc673e-0848-48be-a9de-69215e53798f: vscjava.vscode-java-test
+[2021-09-27 17:44:21.036] [sharedprocess] [info] Renamed to /Users/Chase/.vscode/extensions/ms-vscode.sublime-keybindings-4.0.10
+[2021-09-27 17:44:21.038] [sharedprocess] [info] Extracting completed. ms-vscode.sublime-keybindings
+[2021-09-27 17:44:21.058] [sharedprocess] [info] Renamed to /Users/Chase/.vscode/extensions/vscjava.vscode-java-test-0.32.0
+[2021-09-27 17:44:21.088] [sharedprocess] [info] Extension installed successfully: ms-vscode.sublime-keybindings
+[2021-09-27 17:44:21.101] [sharedprocess] [info] Extracting completed. vscjava.vscode-java-test
+[2021-09-27 17:44:21.102] [sharedprocess] [info] Extension installed successfully: vscjava.vscode-java-test
+[2021-09-27 17:44:21.174] [sharedprocess] [info] Downloaded extension: formulahendry.auto-rename-tag /Users/Chase/Library/Application Support/Code/CachedExtensionVSIXs/formulahendry.auto-rename-tag-0.1.8
+[2021-09-27 17:44:21.176] [sharedprocess] [info] Downloaded extension: ms-vscode.cpptools /Users/Chase/Library/Application Support/Code/CachedExtensionVSIXs/ms-vscode.cpptools-1.6.0
+[2021-09-27 17:44:21.195] [sharedprocess] [info] Extracted extension to /Users/Chase/.vscode/extensions/.a9dd1c95-dc48-43fc-8517-d09e16759508: dbaeumer.vscode-eslint
+[2021-09-27 17:44:21.234] [sharedprocess] [info] Downloaded extension: ecmel.vscode-html-css /Users/Chase/Library/Application Support/Code/CachedExtensionVSIXs/ecmel.vscode-html-css-1.10.2
+[2021-09-27 17:44:21.254] [sharedprocess] [info] Renamed to /Users/Chase/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25
+[2021-09-27 17:44:21.255] [sharedprocess] [info] Extracting completed. dbaeumer.vscode-eslint
+[2021-09-27 17:44:21.293] [sharedprocess] [info] Extension installed successfully: dbaeumer.vscode-eslint
+[2021-09-27 17:44:21.350] [sharedprocess] [info] Extracted extension to /Users/Chase/.vscode/extensions/.5d522ed0-308e-4b2d-84a3-aa6bdf49d760: ecmel.vscode-html-css
+[2021-09-27 17:44:21.374] [sharedprocess] [info] Renamed to /Users/Chase/.vscode/extensions/ecmel.vscode-html-css-1.10.2
+[2021-09-27 17:44:21.380] [sharedprocess] [info] Extracting completed. ecmel.vscode-html-css
+[2021-09-27 17:44:21.421] [sharedprocess] [info] Downloaded extension: davidanson.vscode-markdownlint /Users/Chase/Library/Application Support/Code/CachedExtensionVSIXs/davidanson.vscode-markdownlint-0.44.3
+[2021-09-27 17:44:21.439] [sharedprocess] [info] Downloaded extension: vscjava.vscode-java-pack /Users/Chase/Library/Application Support/Code/CachedExtensionVSIXs/vscjava.vscode-java-pack-0.18.5
+[2021-09-27 17:44:21.440] [sharedprocess] [info] Extension installed successfully: ecmel.vscode-html-css
+[2021-09-27 17:44:21.493] [sharedprocess] [info] Extracted extension to /Users/Chase/.vscode/extensions/.6f7319fa-7640-4d19-b6e6-082d4beb69fa: formulahendry.auto-rename-tag
+[2021-09-27 17:44:21.516] [sharedprocess] [info] Renamed to /Users/Chase/.vscode/extensions/formulahendry.auto-rename-tag-0.1.8
+[2021-09-27 17:44:21.517] [sharedprocess] [info] Extracting completed. formulahendry.auto-rename-tag
+[2021-09-27 17:44:21.539] [sharedprocess] [info] Extension installed successfully: formulahendry.auto-rename-tag
+[2021-09-27 17:44:21.541] [sharedprocess] [info] Extracted extension to /Users/Chase/.vscode/extensions/.bfa61cde-bc12-4b68-a7bb-813b18de1c4f: vscjava.vscode-java-debug
+[2021-09-27 17:44:21.543] [sharedprocess] [info] Extracted extension to /Users/Chase/.vscode/extensions/.5858db7e-0427-49e8-a57e-1bc26357e9ad: davidanson.vscode-markdownlint
+[2021-09-27 17:44:21.582] [sharedprocess] [info] Renamed to /Users/Chase/.vscode/extensions/vscjava.vscode-java-debug-0.36.0
+[2021-09-27 17:44:21.617] [sharedprocess] [info] Renamed to /Users/Chase/.vscode/extensions/davidanson.vscode-markdownlint-0.44.3
+[2021-09-27 17:44:21.620] [sharedprocess] [info] Extracting completed. davidanson.vscode-markdownlint
+[2021-09-27 17:44:21.620] [sharedprocess] [info] Extracting completed. vscjava.vscode-java-debug
+[2021-09-27 17:44:21.643] [sharedprocess] [info] Extension installed successfully: davidanson.vscode-markdownlint
+[2021-09-27 17:44:21.661] [sharedprocess] [info] Extension installed successfully: vscjava.vscode-java-debug
+[2021-09-27 17:44:21.703] [sharedprocess] [info] Downloaded extension: ms-vscode.vscode-typescript-next /Users/Chase/Library/Application Support/Code/CachedExtensionVSIXs/ms-vscode.vscode-typescript-next-4.5.20210927
+[2021-09-27 17:44:21.756] [sharedprocess] [info] Extracted extension to /Users/Chase/.vscode/extensions/.4e344b4e-953f-4f17-beba-531d65ba0d03: ms-vscode.cmake-tools
+[2021-09-27 17:44:21.780] [sharedprocess] [info] Renamed to /Users/Chase/.vscode/extensions/ms-vscode.cmake-tools-1.8.1
+[2021-09-27 17:44:21.781] [sharedprocess] [info] Extracting completed. ms-vscode.cmake-tools
+[2021-09-27 17:44:21.793] [sharedprocess] [info] Extension installed successfully: ms-vscode.cmake-tools
+[2021-09-27 17:44:21.843] [sharedprocess] [info] Extracted extension to /Users/Chase/.vscode/extensions/.0d99e397-d965-419b-8b72-2c3914315fd4: vscjava.vscode-java-pack
+[2021-09-27 17:44:21.883] [sharedprocess] [info] Renamed to /Users/Chase/.vscode/extensions/vscjava.vscode-java-pack-0.18.5
+[2021-09-27 17:44:21.886] [sharedprocess] [info] Extracting completed. vscjava.vscode-java-pack
+[2021-09-27 17:44:21.909] [sharedprocess] [info] Extension installed successfully: vscjava.vscode-java-pack
+[2021-09-27 17:44:21.986] [sharedprocess] [info] Downloaded extension: mgesbert.python-path /Users/Chase/Library/Application Support/Code/CachedExtensionVSIXs/mgesbert.python-path-0.0.11
+[2021-09-27 17:44:22.099] [sharedprocess] [info] Extracted extension to /Users/Chase/.vscode/extensions/.f84a5c00-11b3-49a2-95c3-f8a9b1339c2f: mgesbert.python-path
+[2021-09-27 17:44:22.124] [sharedprocess] [info] Renamed to /Users/Chase/.vscode/extensions/mgesbert.python-path-0.0.11
+[2021-09-27 17:44:22.125] [sharedprocess] [info] Extracting completed. mgesbert.python-path
+[2021-09-27 17:44:22.146] [sharedprocess] [info] Extension installed successfully: mgesbert.python-path
+[2021-09-27 17:44:22.238] [sharedprocess] [info] Extracted extension to /Users/Chase/.vscode/extensions/.57e38586-3969-447d-ab43-c1b6c0fa9146: coenraads.bracket-pair-colorizer
+[2021-09-27 17:44:22.270] [sharedprocess] [info] Renamed to /Users/Chase/.vscode/extensions/coenraads.bracket-pair-colorizer-1.0.61
+[2021-09-27 17:44:22.282] [sharedprocess] [info] Extracting completed. coenraads.bracket-pair-colorizer
+[2021-09-27 17:44:22.284] [sharedprocess] [info] Extension installed successfully: coenraads.bracket-pair-colorizer
+[2021-09-27 17:44:22.323] [sharedprocess] [info] Downloaded extension: vscodevim.vim /Users/Chase/Library/Application Support/Code/CachedExtensionVSIXs/vscodevim.vim-1.21.7
+[2021-09-27 17:44:22.358] [sharedprocess] [info] Extracted extension to /Users/Chase/.vscode/extensions/.6f071290-9703-4b92-8ba5-a96596531376: ms-vscode.cpptools
+[2021-09-27 17:44:22.400] [sharedprocess] [info] Renamed to /Users/Chase/.vscode/extensions/ms-vscode.cpptools-1.6.0
+[2021-09-27 17:44:22.403] [sharedprocess] [info] Extracting completed. ms-vscode.cpptools
+[2021-09-27 17:44:22.425] [sharedprocess] [info] Extension installed successfully: ms-vscode.cpptools
+[2021-09-27 17:44:22.481] [sharedprocess] [info] Extracted extension to /Users/Chase/.vscode/extensions/.f93713d3-4d4d-4ece-a8d5-2f92f4a12807: vscodevim.vim
+[2021-09-27 17:44:22.508] [sharedprocess] [info] Renamed to /Users/Chase/.vscode/extensions/vscodevim.vim-1.21.7
+[2021-09-27 17:44:22.510] [sharedprocess] [info] Extracting completed. vscodevim.vim
+[2021-09-27 17:44:22.534] [sharedprocess] [info] Extension installed successfully: vscodevim.vim
+[2021-09-27 17:44:22.580] [sharedprocess] [info] Downloaded extension: shyykoserhiy.vscode-spotify /Users/Chase/Library/Application Support/Code/CachedExtensionVSIXs/shyykoserhiy.vscode-spotify-3.2.1
+[2021-09-27 17:44:22.921] [sharedprocess] [info] Downloaded extension: twxs.cmake /Users/Chase/Library/Application Support/Code/CachedExtensionVSIXs/twxs.cmake-0.0.17
+[2021-09-27 17:44:23.008] [sharedprocess] [info] Extracted extension to /Users/Chase/.vscode/extensions/.43f9ab43-d43a-477f-9131-fd12e4554155: ms-vscode.vscode-typescript-next
+[2021-09-27 17:44:23.032] [sharedprocess] [info] Renamed to /Users/Chase/.vscode/extensions/ms-vscode.vscode-typescript-next-4.5.20210927
+[2021-09-27 17:44:23.033] [sharedprocess] [info] Extracting completed. ms-vscode.vscode-typescript-next
+[2021-09-27 17:44:23.054] [sharedprocess] [info] Extension installed successfully: ms-vscode.vscode-typescript-next
+[2021-09-27 17:44:23.131] [sharedprocess] [info] Extracted extension to /Users/Chase/.vscode/extensions/.911c41a9-1170-4fe2-b9be-6ccd74e1a5fa: twxs.cmake
+[2021-09-27 17:44:23.156] [sharedprocess] [info] Renamed to /Users/Chase/.vscode/extensions/twxs.cmake-0.0.17
+[2021-09-27 17:44:23.157] [sharedprocess] [info] Extracting completed. twxs.cmake
+[2021-09-27 17:44:23.177] [sharedprocess] [info] Extension installed successfully: twxs.cmake
+[2021-09-27 17:44:23.406] [sharedprocess] [info] Downloaded extension: ms-toolsai.jupyter /Users/Chase/Library/Application Support/Code/CachedExtensionVSIXs/ms-toolsai.jupyter-2021.8.2041215044
+[2021-09-27 17:44:23.428] [sharedprocess] [info] Downloaded extension: vscjava.vscode-maven /Users/Chase/Library/Application Support/Code/CachedExtensionVSIXs/vscjava.vscode-maven-0.34.0
+[2021-09-27 17:44:23.555] [sharedprocess] [info] Downloaded extension: visualstudioexptteam.vscodeintellicode /Users/Chase/Library/Application Support/Code/CachedExtensionVSIXs/visualstudioexptteam.vscodeintellicode-1.2.14
+[2021-09-27 17:44:23.654] [sharedprocess] [info] Extracted extension to /Users/Chase/.vscode/extensions/.8ef69e4d-c165-486e-a309-59b1800dff8b: vscjava.vscode-maven
+[2021-09-27 17:44:23.681] [sharedprocess] [info] Renamed to /Users/Chase/.vscode/extensions/vscjava.vscode-maven-0.34.0
+[2021-09-27 17:44:23.682] [sharedprocess] [info] Extracting completed. vscjava.vscode-maven
+[2021-09-27 17:44:23.720] [sharedprocess] [info] Extension installed successfully: vscjava.vscode-maven
+[2021-09-27 17:44:23.929] [sharedprocess] [info] Downloaded extension: esbenp.prettier-vscode /Users/Chase/Library/Application Support/Code/CachedExtensionVSIXs/esbenp.prettier-vscode-9.0.0
+[2021-09-27 17:44:23.968] [sharedprocess] [info] Extracted extension to /Users/Chase/.vscode/extensions/.0bd2b19b-a1bb-46d4-9314-c005e437a917: ritwickdey.liveserver
+[2021-09-27 17:44:23.992] [sharedprocess] [info] Renamed to /Users/Chase/.vscode/extensions/ritwickdey.liveserver-5.6.1
+[2021-09-27 17:44:23.993] [sharedprocess] [info] Extracting completed. ritwickdey.liveserver
+[2021-09-27 17:44:24.015] [sharedprocess] [info] Extension installed successfully: ritwickdey.liveserver
+[2021-09-27 17:44:24.109] [sharedprocess] [info] Extracted extension to /Users/Chase/.vscode/extensions/.328ba73d-939d-4500-a145-7241febf1914: visualstudioexptteam.vscodeintellicode
+[2021-09-27 17:44:24.132] [sharedprocess] [info] Renamed to /Users/Chase/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.2.14
+[2021-09-27 17:44:24.133] [sharedprocess] [info] Extracting completed. visualstudioexptteam.vscodeintellicode
+[2021-09-27 17:44:24.153] [sharedprocess] [info] Extension installed successfully: visualstudioexptteam.vscodeintellicode
+[2021-09-27 17:44:24.245] [sharedprocess] [info] Extracted extension to /Users/Chase/.vscode/extensions/.a4c74fc1-c1a2-4afe-a085-895663a6e682: ms-toolsai.jupyter
+[2021-09-27 17:44:24.270] [sharedprocess] [info] Renamed to /Users/Chase/.vscode/extensions/ms-toolsai.jupyter-2021.8.2041215044
+[2021-09-27 17:44:24.273] [sharedprocess] [info] Extracting completed. ms-toolsai.jupyter
+[2021-09-27 17:44:24.295] [sharedprocess] [info] Extension installed successfully: ms-toolsai.jupyter
+[2021-09-27 17:44:24.406] [sharedprocess] [info] Extracted extension to /Users/Chase/.vscode/extensions/.71de1d92-8976-46fb-8177-eded7cfcfe94: esbenp.prettier-vscode
+[2021-09-27 17:44:24.433] [sharedprocess] [info] Renamed to /Users/Chase/.vscode/extensions/esbenp.prettier-vscode-9.0.0
+[2021-09-27 17:44:24.435] [sharedprocess] [info] Extracting completed. esbenp.prettier-vscode
+[2021-09-27 17:44:24.460] [sharedprocess] [info] Extension installed successfully: esbenp.prettier-vscode
+[2021-09-27 17:44:24.486] [sharedprocess] [info] Downloaded extension: ms-python.python /Users/Chase/Library/Application Support/Code/CachedExtensionVSIXs/ms-python.python-2021.9.1246542782
+[2021-09-27 17:44:24.611] [sharedprocess] [info] Downloaded extension: ms-python.vscode-pylance /Users/Chase/Library/Application Support/Code/CachedExtensionVSIXs/ms-python.vscode-pylance-2021.9.3
+[2021-09-27 17:44:25.022] [sharedprocess] [info] Extracted extension to /Users/Chase/.vscode/extensions/.74707d06-94bd-4152-8828-a4ee80832161: shyykoserhiy.vscode-spotify
+[2021-09-27 17:44:25.049] [sharedprocess] [info] Renamed to /Users/Chase/.vscode/extensions/shyykoserhiy.vscode-spotify-3.2.1
+[2021-09-27 17:44:25.050] [sharedprocess] [info] Extracting completed. shyykoserhiy.vscode-spotify
+[2021-09-27 17:44:25.070] [sharedprocess] [info] Extension installed successfully: shyykoserhiy.vscode-spotify
+[2021-09-27 17:44:26.522] [sharedprocess] [info] Extracted extension to /Users/Chase/.vscode/extensions/.71582bb1-7361-40c1-94a7-d57ae53f7e91: ms-python.python
+[2021-09-27 17:44:26.554] [sharedprocess] [info] Renamed to /Users/Chase/.vscode/extensions/ms-python.python-2021.9.1246542782
+[2021-09-27 17:44:26.600] [sharedprocess] [info] Extracting completed. ms-python.python
+[2021-09-27 17:44:26.636] [sharedprocess] [info] Extension installed successfully: ms-python.python
+[2021-09-27 17:44:26.670] [sharedprocess] [info] Downloaded extension: redhat.java /Users/Chase/Library/Application Support/Code/CachedExtensionVSIXs/redhat.java-0.82.0
+[2021-09-27 17:44:26.956] [sharedprocess] [info] Extracted extension to /Users/Chase/.vscode/extensions/.e99ee2f3-9fc8-4eec-9b68-ecd098098543: ms-python.vscode-pylance
+[2021-09-27 17:44:26.984] [sharedprocess] [info] Renamed to /Users/Chase/.vscode/extensions/ms-python.vscode-pylance-2021.9.3
+[2021-09-27 17:44:26.986] [sharedprocess] [info] Extracting completed. ms-python.vscode-pylance
+[2021-09-27 17:44:27.043] [sharedprocess] [info] Extension installed successfully: ms-python.vscode-pylance
+[2021-09-27 17:44:27.044] [sharedprocess] [info] Detected extension removed from another source ms-python.vscode-pylance
+[2021-09-27 17:44:27.273] [sharedprocess] [info] Extracted extension to /Users/Chase/.vscode/extensions/.ef0ff691-a39e-440d-9bc5-9b84051b2076: redhat.java
+[2021-09-27 17:44:27.301] [sharedprocess] [info] Renamed to /Users/Chase/.vscode/extensions/redhat.java-0.82.0
+[2021-09-27 17:44:27.303] [sharedprocess] [info] Extracting completed. redhat.java
+[2021-09-27 17:44:27.336] [sharedprocess] [info] Extension installed successfully: redhat.java
+[2021-09-27 17:44:27.368] [sharedprocess] [info] Detected extension installed from another source ms-python.vscode-pylance

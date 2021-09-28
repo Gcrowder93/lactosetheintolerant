@@ -1,0 +1,12 @@
+Validating found git in: /opt/homebrew/bin/git
+Using git 2.33.0 from /opt/homebrew/bin/git
+> git rev-parse --git-dir
+Open repository: /Users/Chase
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/admin-panel refs/remotes/admin-panel
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin

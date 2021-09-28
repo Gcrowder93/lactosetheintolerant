@@ -1,0 +1,14 @@
+[2021-09-27 17:44:22.472] [renderer4] [error] Could not find category with ID: ms-vscode.cpptools#cppWelcome: Error: Could not find category with ID: ms-vscode.cpptools#cppWelcome
+    at vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:1818:47286
+    at l.fire (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:69:1712)
+    at T.progressStep (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:1675:19150)
+    at T.registerDoneListeners (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:1675:21690)
+    at vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:1675:20008
+    at Array.forEach (<anonymous>)
+    at T._registerWalkthrough (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:1675:19790)
+    at vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:1675:17175
+    at async Promise.all (index 0)
+    at async T.registerExtensionWalkthroughContributions (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:1675:14722)
+    at async Promise.all (index 0)
+    at async l._handler (vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:1675:11082)
+[2021-09-27 17:44:23.774] [renderer4] [error] ENOENT: no such file or directory, open '/Users/Chase/Library/Application Support/Code/User/globalStorage/vscodevim.vim/.registers': Error: ENOENT: no such file or directory, open '/Users/Chase/Library/Application Support/Code/User/globalStorage/vscodevim.vim/.registers'

@@ -1,0 +1,101 @@
+status
+ls
+git status
+git add -A
+git status
+git --version
+git update
+git update-ref
+sudo apt-get update\
+
+sudo apt-get install git\
+
+sudo apt-get update\
+
+sudo apt-get update\
+
+git --version
+brew update
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"\
+
+brew update
+brew upgrade git
+brew update
+xcode-select --install\
+
+software update
+curl -fsSL -o install.sh https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh\
+
+/bin/bash install.sh\
+
+curl -fsSL -o install.sh https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh\
+
+nano ~/.zshrc\
+
+source ~/.zshrc\
+
+brew doctor\
+
+/opt/homebrew
+xcode-select --install\
+
+curl -O https://raw.githubusercontent.com/Homebrew/install/master/install.sh\
+
+vim install.sh\
+
+bash install.sh
+export PATH=/opt/homebrew/bin:$PATH\
+
+source ~/.zshrc
+bash install.sh\
+
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"\
+
+brew update
+brew upgrade git
+brew install git\
+
+brew upgrade git
+git --version
+git status
+brew install bash\
+
+npm --version\
+
+node --version\
+
+code --version\
+
+eslint --version\
+
+cat ~/.gitconfig\
+
+git config --list\
+
+eslint --update
+git --version\
+\
+node --version\
+\
+npm --version\
+\
+code --version\
+\
+eslint --version\
+\
+git config --list\
+
+xcode-select --install\
+
+Software Update
+node --version\
+
+npm --version\
+
+code --version\
+
+eslint --version\
+
+git config --list\
+
+. code

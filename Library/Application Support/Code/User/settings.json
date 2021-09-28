@@ -1,0 +1,13 @@
+{
+    "workbench.colorTheme": "Default Dark+",
+    "C_Cpp.autocompleteAddParentheses": true,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "files.autoSave": "onFocusChange",
+    "editor.renderControlCharacters": true,
+    "workbench.editorAssociations": {
+        "*.css": "default"
+    },
+    "diffEditor.wordWrap": "on",
+    "editor.wordWrap": "on"
+}

@@ -1,0 +1,190 @@
+[2021-09-27 17:21:41.636] [settingssync] [info] Using settings sync service https://vscode-sync.trafficmanager.net/
+[2021-09-27 17:21:41.636] [settingssync] [info] Auto Sync is disabled.
+[2021-09-27 17:44:17.210] [settingssync] [info] Did reset the local sync state.
+[2021-09-27 17:44:18.479] [settingssync] [info] Settings: Updated local settings
+[2021-09-27 17:44:18.498] [settingssync] [info] Settings: Updated last synchronized settings
+[2021-09-27 17:44:18.499] [settingssync] [info] Keybindings: No changes found during synchronizing keybindings.
+[2021-09-27 17:44:18.518] [settingssync] [info] Keybindings: Updated last synchronized keybindings
+[2021-09-27 17:44:18.518] [settingssync] [info] Snippets: No changes found during synchronizing snippets.
+[2021-09-27 17:44:18.537] [settingssync] [info] Snippets: Updated last synchronized snippets
+[2021-09-27 17:44:18.561] [settingssync] [info] GlobalState: Updated global state ["workbench.welcomePage.walkthroughMetadata","github-Gcrowder93","cpp.1.sessionCount","java.2.sessionCount","javascript.1.sessionCount","typescript.1.sessionCount","scm/input:Git:/Users/Chase/LAB-01b-markdown-notes-in-github.md","scm/input:Git:/Users/Chase/Documents/GitHub/LAB-01b-markdown-notes-in-github.md","scm/input:Git:/Users/Chase/alchemy/dev-101/my-favorite-things","expandSuggestionDocs","scm/input:Git:/Users/Chase/alchemy/dev-101/lab-02a-name-tag","scm/input:Git:/Users/Chase/.Trash/lab-02a-name-tag","scm/input:Git:/Users/Chase/alchemy/dev-101/himynameis","javascript.1.editedCount","javascript.1.editedDate","scm/input:Git:/Users/Chase/alchemy/dev-101/Animal-Sounds","scm/input:Git:/Users/Chase/alchemy/dev-101/04calc","scm/input:Git:/Users/Chase/alchemy/dev-101/lab-04-calculator","scm/input:Git:/Users/Chase/alchemy/dev-101/actualcalc","scm/input:Git:/Users/Chase/alchemy/dev-101/05-8ball","workbench.view.extension.vscode-spotify.state.hidden","scm/input:Git:/Users/Chase/alchemy/dev-101/madlibs","nps/isCandidate","nps/skipVersion","workbench.view.extension.test.state.hidden","terminal.integrated.showTerminalConfigPrompt","scm/input:Git:/Users/Chase/himynameis","scm/input:Git:/Users/Chase/sept/foundation-prep-notes","scm/input:Git:/Users/Chase/sept/foundations/lab1a","workbench.explorer.views.state.hidden","workbench.activity.pinnedViewlets2","nps/lastSessionDate","nps/sessionCount","workbench.statusbar.hidden","workbench.panel.pinnedPanels","ces/skipSurvey","memento/gettingStartedService","workbench.welcomePage.hiddenCategories","commandPalette.mru.cache","commandPalette.mru.counter"]
+[2021-09-27 17:44:18.561] [settingssync] [info] GlobalState: Updated local ui state
+[2021-09-27 17:44:18.579] [settingssync] [info] GlobalState: Updated last synchronized ui state
+[2021-09-27 17:44:18.830] [settingssync] [info] Extensions: Enabled extension visualstudioexptteam.vscodeintellicode 1.2.14
+[2021-09-27 17:44:18.839] [settingssync] [info] Extensions: Enabled extension dbaeumer.vscode-eslint 2.1.25
+[2021-09-27 17:44:18.904] [settingssync] [info] Extensions: Enabled extension formulahendry.auto-rename-tag 0.1.8
+[2021-09-27 17:44:18.908] [settingssync] [info] Extensions: Enabled extension shyykoserhiy.vscode-spotify 3.2.1
+[2021-09-27 17:44:18.914] [settingssync] [info] Extensions: Enabled extension ms-vscode.sublime-keybindings 4.0.10
+[2021-09-27 17:44:18.950] [settingssync] [info] Extensions: Enabled extension mgesbert.python-path 0.0.11
+[2021-09-27 17:44:18.951] [settingssync] [info] Extensions: Enabled extension ms-toolsai.jupyter-keymap 1.0.0
+[2021-09-27 17:44:18.952] [settingssync] [info] Extensions: Enabled extension twxs.cmake 0.0.17
+[2021-09-27 17:44:18.954] [settingssync] [info] Extensions: Enabled extension vscjava.vscode-java-pack 0.18.5
+[2021-09-27 17:44:18.955] [settingssync] [info] Extensions: Enabled extension ms-dotnettools.csharp 1.23.15
+[2021-09-27 17:44:18.956] [settingssync] [info] Extensions: Enabled extension vscjava.vscode-java-debug 0.36.0
+[2021-09-27 17:44:18.960] [settingssync] [info] Extensions: Enabled extension vscjava.vscode-java-dependency 0.18.8
+[2021-09-27 17:44:18.961] [settingssync] [info] Extensions: Enabled extension vscjava.vscode-java-test 0.32.0
+[2021-09-27 17:44:18.963] [settingssync] [info] Extensions: Enabled extension ritwickdey.liveserver 5.6.1
+[2021-09-27 17:44:18.997] [settingssync] [info] Extensions: Enabled extension ms-vscode.cmake-tools 1.8.1
+[2021-09-27 17:44:19.001] [settingssync] [info] Extensions: Enabled extension ms-python.vscode-pylance 2021.9.3
+[2021-09-27 17:44:19.003] [settingssync] [info] Extensions: Enabled extension vscjava.vscode-maven 0.34.0
+[2021-09-27 17:44:19.004] [settingssync] [info] Extensions: Enabled extension ms-vscode.cpptools 1.6.0
+[2021-09-27 17:44:19.007] [settingssync] [info] Extensions: Enabled extension ecmel.vscode-html-css 1.10.2
+[2021-09-27 17:44:19.009] [settingssync] [info] Extensions: Enabled extension davidanson.vscode-markdownlint 0.44.3
+[2021-09-27 17:44:19.040] [settingssync] [info] Extensions: Enabled extension coenraads.bracket-pair-colorizer 1.0.61
+[2021-09-27 17:44:19.062] [settingssync] [info] Extensions: Enabled extension redhat.java 0.82.0
+[2021-09-27 17:44:19.077] [settingssync] [info] Extensions: Enabled extension ms-toolsai.jupyter 2021.8.2041215044
+[2021-09-27 17:44:19.077] [settingssync] [info] Extensions: Enabled extension ms-python.python 2021.9.1246542782
+[2021-09-27 17:44:19.186] [settingssync] [info] Extensions: Enabled extension vscodevim.vim 1.21.7
+[2021-09-27 17:44:19.276] [settingssync] [info] Extensions: Enabled extension esbenp.prettier-vscode 9.0.0
+[2021-09-27 17:44:19.314] [settingssync] [info] Extensions: Enabled extension ms-vscode.vscode-typescript-next 4.5.20210927
+[2021-09-27 17:44:20.665] [settingssync] [info] Extensions: Installed extension. vscjava.vscode-java-dependency 0.18.8
+[2021-09-27 17:44:20.668] [settingssync] [info] Extensions: Installed extension. ms-dotnettools.csharp 1.23.15
+[2021-09-27 17:44:20.848] [settingssync] [info] Extensions: Installed extension. ms-toolsai.jupyter-keymap 1.0.0
+[2021-09-27 17:44:21.101] [settingssync] [info] Extensions: Installed extension. ms-vscode.sublime-keybindings 4.0.10
+[2021-09-27 17:44:21.102] [settingssync] [info] Extensions: Installed extension. vscjava.vscode-java-test 0.32.0
+[2021-09-27 17:44:21.327] [settingssync] [info] Extensions: Installed extension. dbaeumer.vscode-eslint 2.1.25
+[2021-09-27 17:44:21.440] [settingssync] [info] Extensions: Installed extension. ecmel.vscode-html-css 1.10.2
+[2021-09-27 17:44:21.539] [settingssync] [info] Extensions: Installed extension. formulahendry.auto-rename-tag 0.1.8
+[2021-09-27 17:44:21.660] [settingssync] [info] Extensions: Installed extension. davidanson.vscode-markdownlint 0.44.3
+[2021-09-27 17:44:21.661] [settingssync] [info] Extensions: Installed extension. vscjava.vscode-java-debug 0.36.0
+[2021-09-27 17:44:21.793] [settingssync] [info] Extensions: Installed extension. ms-vscode.cmake-tools 1.8.1
+[2021-09-27 17:44:21.909] [settingssync] [info] Extensions: Installed extension. vscjava.vscode-java-pack 0.18.5
+[2021-09-27 17:44:22.146] [settingssync] [info] Extensions: Installed extension. mgesbert.python-path 0.0.11
+[2021-09-27 17:44:22.284] [settingssync] [info] Extensions: Installed extension. coenraads.bracket-pair-colorizer 1.0.61
+[2021-09-27 17:44:22.425] [settingssync] [info] Extensions: Installed extension. ms-vscode.cpptools 1.6.0
+[2021-09-27 17:44:22.534] [settingssync] [info] Extensions: Installed extension. vscodevim.vim 1.21.7
+[2021-09-27 17:44:23.054] [settingssync] [info] Extensions: Installed extension. ms-vscode.vscode-typescript-next 4.5.20210927
+[2021-09-27 17:44:23.178] [settingssync] [info] Extensions: Installed extension. twxs.cmake 0.0.17
+[2021-09-27 17:44:23.720] [settingssync] [info] Extensions: Installed extension. vscjava.vscode-maven 0.34.0
+[2021-09-27 17:44:24.015] [settingssync] [info] Extensions: Installed extension. ritwickdey.liveserver 5.6.1
+[2021-09-27 17:44:24.153] [settingssync] [info] Extensions: Installed extension. visualstudioexptteam.vscodeintellicode 1.2.14
+[2021-09-27 17:44:24.295] [settingssync] [info] Extensions: Installed extension. ms-toolsai.jupyter 2021.8.2041215044
+[2021-09-27 17:44:24.460] [settingssync] [info] Extensions: Installed extension. esbenp.prettier-vscode 9.0.0
+[2021-09-27 17:44:25.070] [settingssync] [info] Extensions: Installed extension. shyykoserhiy.vscode-spotify 3.2.1
+[2021-09-27 17:44:26.669] [settingssync] [info] Extensions: Installed extension. ms-python.python 2021.9.1246542782
+[2021-09-27 17:44:27.043] [settingssync] [info] Extensions: Installed extension. ms-python.vscode-pylance 2021.9.3
+[2021-09-27 17:44:27.336] [settingssync] [info] Extensions: Installed extension. redhat.java 0.82.0
+[2021-09-27 17:44:27.368] [settingssync] [info] Extensions: Updated last synchronized extensions.
+[2021-09-27 17:44:27.376] [settingssync] [info] Auto Sync: Started
+[2021-09-27 17:44:27.377] [settingssync] [info] Auto Sync: Triggered by Interval
+[2021-09-27 17:44:28.090] [settingssync] [info] Settings: No changes found during synchronizing settings.
+[2021-09-27 17:44:28.091] [settingssync] [info] Keybindings: No changes found during synchronizing keybindings.
+[2021-09-27 17:44:28.092] [settingssync] [info] Snippets: No changes found during synchronizing snippets.
+[2021-09-27 17:44:28.458] [settingssync] [info] GlobalState: Updated remote ui state
+[2021-09-27 17:44:28.478] [settingssync] [info] GlobalState: Updated last synchronized ui state
+[2021-09-27 17:44:28.512] [settingssync] [info] Extensions: No changes found during synchronizing extensions.
+[2021-09-27 17:44:28.512] [settingssync] [info] Sync done. Took 428ms
+[2021-09-27 17:44:30.797] [settingssync] [info] Auto Sync: Triggered by Activity
+[2021-09-27 17:44:30.986] [settingssync] [info] Settings: No changes found during synchronizing settings.
+[2021-09-27 17:44:30.988] [settingssync] [info] Keybindings: No changes found during synchronizing keybindings.
+[2021-09-27 17:44:30.990] [settingssync] [info] Snippets: No changes found during synchronizing snippets.
+[2021-09-27 17:44:31.325] [settingssync] [info] GlobalState: Updated remote ui state
+[2021-09-27 17:44:31.345] [settingssync] [info] GlobalState: Updated last synchronized ui state
+[2021-09-27 17:44:31.401] [settingssync] [info] Extensions: No changes found during synchronizing extensions.
+[2021-09-27 17:44:31.401] [settingssync] [info] Sync done. Took 424ms
+[2021-09-27 17:44:35.150] [settingssync] [info] Auto Sync: Triggered by Activity
+[2021-09-27 17:44:35.343] [settingssync] [info] Settings: No changes found during synchronizing settings.
+[2021-09-27 17:44:35.345] [settingssync] [info] Keybindings: No changes found during synchronizing keybindings.
+[2021-09-27 17:44:35.347] [settingssync] [info] Snippets: No changes found during synchronizing snippets.
+[2021-09-27 17:44:35.594] [settingssync] [info] GlobalState: Updated remote ui state
+[2021-09-27 17:44:35.633] [settingssync] [info] GlobalState: Updated last synchronized ui state
+[2021-09-27 17:44:35.675] [settingssync] [info] Extensions: No changes found during synchronizing extensions.
+[2021-09-27 17:44:35.675] [settingssync] [info] Sync done. Took 341ms
+[2021-09-27 17:44:49.397] [settingssync] [info] Auto Sync: Triggered by Activity
+[2021-09-27 17:44:49.608] [settingssync] [info] Settings: No changes found during synchronizing settings.
+[2021-09-27 17:44:49.609] [settingssync] [info] Keybindings: No changes found during synchronizing keybindings.
+[2021-09-27 17:44:49.611] [settingssync] [info] Snippets: No changes found during synchronizing snippets.
+[2021-09-27 17:44:49.619] [settingssync] [info] GlobalState: No changes found during synchronizing ui state.
+[2021-09-27 17:44:49.673] [settingssync] [info] Extensions: No changes found during synchronizing extensions.
+[2021-09-27 17:44:49.673] [settingssync] [info] Sync done. Took 86ms
+[2021-09-27 17:45:08.459] [settingssync] [info] Auto Sync: Triggered by Activity
+[2021-09-27 17:45:08.641] [settingssync] [info] Settings: No changes found during synchronizing settings.
+[2021-09-27 17:45:08.642] [settingssync] [info] Keybindings: No changes found during synchronizing keybindings.
+[2021-09-27 17:45:08.644] [settingssync] [info] Snippets: No changes found during synchronizing snippets.
+[2021-09-27 17:45:08.652] [settingssync] [info] GlobalState: No changes found during synchronizing ui state.
+[2021-09-27 17:45:08.693] [settingssync] [info] Extensions: No changes found during synchronizing extensions.
+[2021-09-27 17:45:08.694] [settingssync] [info] Sync done. Took 56ms
+[2021-09-27 17:45:56.601] [settingssync] [info] Auto Sync: Triggered by Activity
+[2021-09-27 17:45:56.802] [settingssync] [info] Settings: No changes found during synchronizing settings.
+[2021-09-27 17:45:56.804] [settingssync] [info] Keybindings: No changes found during synchronizing keybindings.
+[2021-09-27 17:45:56.805] [settingssync] [info] Snippets: No changes found during synchronizing snippets.
+[2021-09-27 17:45:56.814] [settingssync] [info] GlobalState: No changes found during synchronizing ui state.
+[2021-09-27 17:45:56.868] [settingssync] [info] Extensions: No changes found during synchronizing extensions.
+[2021-09-27 17:45:56.868] [settingssync] [info] Sync done. Took 85ms
+[2021-09-27 17:50:56.874] [settingssync] [info] Auto Sync: Triggered by Interval
+[2021-09-27 17:50:57.554] [settingssync] [info] Settings: No changes found during synchronizing settings.
+[2021-09-27 17:50:57.556] [settingssync] [info] Keybindings: No changes found during synchronizing keybindings.
+[2021-09-27 17:50:57.557] [settingssync] [info] Snippets: No changes found during synchronizing snippets.
+[2021-09-27 17:50:57.569] [settingssync] [info] GlobalState: No changes found during synchronizing ui state.
+[2021-09-27 17:50:57.627] [settingssync] [info] Extensions: No changes found during synchronizing extensions.
+[2021-09-27 17:50:57.628] [settingssync] [info] Sync done. Took 80ms
+[2021-09-27 17:55:57.630] [settingssync] [info] Auto Sync: Triggered by Interval
+[2021-09-27 17:55:58.181] [settingssync] [info] Settings: No changes found during synchronizing settings.
+[2021-09-27 17:55:58.184] [settingssync] [info] Keybindings: No changes found during synchronizing keybindings.
+[2021-09-27 17:55:58.186] [settingssync] [info] Snippets: No changes found during synchronizing snippets.
+[2021-09-27 17:55:58.197] [settingssync] [info] GlobalState: No changes found during synchronizing ui state.
+[2021-09-27 17:55:58.252] [settingssync] [info] Extensions: No changes found during synchronizing extensions.
+[2021-09-27 17:55:58.252] [settingssync] [info] Sync done. Took 90ms
+[2021-09-27 17:57:50.920] [settingssync] [info] Auto Sync: Suspended until auth token is available.
+[2021-09-27 17:57:50.921] [settingssync] [info] Auto Sync: Stopped
+[2021-09-27 18:11:17.527] [settingssync] [info] Auto Sync: Started
+[2021-09-27 18:11:17.527] [settingssync] [info] Auto Sync: Triggered by Interval
+[2021-09-27 18:11:18.444] [settingssync] [info] Settings: No changes found during synchronizing settings.
+[2021-09-27 18:11:18.447] [settingssync] [info] Keybindings: No changes found during synchronizing keybindings.
+[2021-09-27 18:11:18.449] [settingssync] [info] Snippets: No changes found during synchronizing snippets.
+[2021-09-27 18:11:18.766] [settingssync] [info] GlobalState: Updated remote ui state
+[2021-09-27 18:11:18.788] [settingssync] [info] GlobalState: Updated last synchronized ui state
+[2021-09-27 18:11:18.852] [settingssync] [info] Extensions: No changes found during synchronizing extensions.
+[2021-09-27 18:11:18.852] [settingssync] [info] Sync done. Took 423ms
+[2021-09-27 18:11:19.829] [settingssync] [info] Auto Sync: Triggered by Activity
+[2021-09-27 18:11:20.029] [settingssync] [info] Settings: No changes found during synchronizing settings.
+[2021-09-27 18:11:20.032] [settingssync] [info] Keybindings: No changes found during synchronizing keybindings.
+[2021-09-27 18:11:20.033] [settingssync] [info] Snippets: No changes found during synchronizing snippets.
+[2021-09-27 18:11:20.040] [settingssync] [info] GlobalState: No changes found during synchronizing ui state.
+[2021-09-27 18:11:20.091] [settingssync] [info] Extensions: No changes found during synchronizing extensions.
+[2021-09-27 18:11:20.091] [settingssync] [info] Sync done. Took 73ms
+[2021-09-27 18:11:22.600] [settingssync] [info] Auto Sync: Triggered by Activity
+[2021-09-27 18:11:22.790] [settingssync] [info] Settings: No changes found during synchronizing settings.
+[2021-09-27 18:11:22.792] [settingssync] [info] Keybindings: No changes found during synchronizing keybindings.
+[2021-09-27 18:11:22.793] [settingssync] [info] Snippets: No changes found during synchronizing snippets.
+[2021-09-27 18:11:23.068] [settingssync] [info] GlobalState: Updated remote ui state
+[2021-09-27 18:11:23.089] [settingssync] [info] GlobalState: Updated last synchronized ui state
+[2021-09-27 18:11:23.164] [settingssync] [info] Extensions: No changes found during synchronizing extensions.
+[2021-09-27 18:11:23.165] [settingssync] [info] Sync done. Took 383ms
+[2021-09-27 18:11:29.638] [settingssync] [info] Auto Sync: Triggered by Activity
+[2021-09-27 18:11:29.831] [settingssync] [info] Settings: No changes found during synchronizing settings.
+[2021-09-27 18:11:29.833] [settingssync] [info] Keybindings: No changes found during synchronizing keybindings.
+[2021-09-27 18:11:29.835] [settingssync] [info] Snippets: No changes found during synchronizing snippets.
+[2021-09-27 18:11:30.194] [settingssync] [info] GlobalState: Updated remote ui state
+[2021-09-27 18:11:30.216] [settingssync] [info] GlobalState: Updated last synchronized ui state
+[2021-09-27 18:11:30.278] [settingssync] [info] Extensions: No changes found during synchronizing extensions.
+[2021-09-27 18:11:30.279] [settingssync] [info] Sync done. Took 460ms
+[2021-09-27 18:11:51.655] [settingssync] [info] Auto Sync: Triggered by Activity
+[2021-09-27 18:11:51.856] [settingssync] [info] Settings: No changes found during synchronizing settings.
+[2021-09-27 18:11:51.858] [settingssync] [info] Keybindings: No changes found during synchronizing keybindings.
+[2021-09-27 18:11:51.860] [settingssync] [info] Snippets: No changes found during synchronizing snippets.
+[2021-09-27 18:11:52.121] [settingssync] [info] GlobalState: Updated remote ui state
+[2021-09-27 18:11:52.146] [settingssync] [info] GlobalState: Updated last synchronized ui state
+[2021-09-27 18:11:52.211] [settingssync] [info] Extensions: No changes found during synchronizing extensions.
+[2021-09-27 18:11:52.212] [settingssync] [info] Sync done. Took 363ms
+[2021-09-27 18:11:53.526] [settingssync] [info] Auto Sync: Triggered by Activity
+[2021-09-27 18:11:53.727] [settingssync] [info] Settings: No changes found during synchronizing settings.
+[2021-09-27 18:11:53.729] [settingssync] [info] Keybindings: No changes found during synchronizing keybindings.
+[2021-09-27 18:11:53.730] [settingssync] [info] Snippets: No changes found during synchronizing snippets.
+[2021-09-27 18:11:53.735] [settingssync] [info] GlobalState: No changes found during synchronizing ui state.
+[2021-09-27 18:11:53.785] [settingssync] [info] Extensions: No changes found during synchronizing extensions.
+[2021-09-27 18:11:53.786] [settingssync] [info] Sync done. Took 64ms
+[2021-09-27 18:14:14.248] [settingssync] [info] Auto Sync: Triggered by Activity
+[2021-09-27 18:14:14.814] [settingssync] [info] Settings: No changes found during synchronizing settings.
+[2021-09-27 18:14:14.818] [settingssync] [info] Keybindings: No changes found during synchronizing keybindings.
+[2021-09-27 18:14:14.821] [settingssync] [info] Snippets: No changes found during synchronizing snippets.
+[2021-09-27 18:14:14.836] [settingssync] [info] GlobalState: No changes found during synchronizing ui state.
+[2021-09-27 18:14:14.891] [settingssync] [info] Extensions: No changes found during synchronizing extensions.
+[2021-09-27 18:14:14.891] [settingssync] [info] Sync done. Took 100ms
+[2021-09-27 18:15:03.781] [settingssync] [info] Auto Sync: Triggered by Activity
+[2021-09-27 18:15:03.985] [settingssync] [info] Settings: No changes found during synchronizing settings.
+[2021-09-27 18:15:03.988] [settingssync] [info] Keybindings: No changes found during synchronizing keybindings.
+[2021-09-27 18:15:03.990] [settingssync] [info] Snippets: No changes found during synchronizing snippets.
+[2021-09-27 18:15:03.999] [settingssync] [info] GlobalState: No changes found during synchronizing ui state.
+[2021-09-27 18:15:04.054] [settingssync] [info] Extensions: No changes found during synchronizing extensions.
+[2021-09-27 18:15:04.055] [settingssync] [info] Sync done. Took 79ms

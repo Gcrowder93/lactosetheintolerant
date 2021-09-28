@@ -1,0 +1,80 @@
+[2021-09-27 17:57:50.080] [exthost] [info] extension host started
+[2021-09-27 17:57:50.096] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-09-27 17:57:50.096] [exthost] [info] ExtensionService#loadCommonJSModule file:///Applications/Visual Studio Code.app/Contents/Resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-09-27 17:57:50.102] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-09-27 17:57:50.102] [exthost] [info] ExtensionService#loadCommonJSModule file:///Applications/Visual Studio Code.app/Contents/Resources/app/extensions/debug-auto-launch/dist/extension
+[2021-09-27 17:57:50.103] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-09-27 17:57:50.103] [exthost] [info] ExtensionService#loadCommonJSModule file:///Applications/Visual Studio Code.app/Contents/Resources/app/extensions/git/dist/main
+[2021-09-27 17:57:50.112] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer {"startup":true,"extensionId":{"value":"CoenraadS.bracket-pair-colorizer","_lower":"coenraads.bracket-pair-colorizer"},"activationEvent":"*"}
+[2021-09-27 17:57:50.112] [exthost] [info] ExtensionService#loadCommonJSModule file:///Users/Chase/.vscode/extensions/coenraads.bracket-pair-colorizer-1.0.61/out/src/extension
+[2021-09-27 17:57:50.122] [exthost] [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css {"startup":true,"extensionId":{"value":"ecmel.vscode-html-css","_lower":"ecmel.vscode-html-css"},"activationEvent":"*"}
+[2021-09-27 17:57:50.122] [exthost] [info] ExtensionService#loadCommonJSModule file:///Users/Chase/.vscode/extensions/ecmel.vscode-html-css-1.10.2/dist/extension.js
+[2021-09-27 17:57:50.135] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag {"startup":true,"extensionId":{"value":"formulahendry.auto-rename-tag","_lower":"formulahendry.auto-rename-tag"},"activationEvent":"*"}
+[2021-09-27 17:57:50.135] [exthost] [info] ExtensionService#loadCommonJSModule file:///Users/Chase/.vscode/extensions/formulahendry.auto-rename-tag-0.1.8/packages/extension/dist/extensionMain.js
+[2021-09-27 17:57:50.144] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.sublime-keybindings {"startup":true,"extensionId":{"value":"ms-vscode.sublime-keybindings","_lower":"ms-vscode.sublime-keybindings"},"activationEvent":"*"}
+[2021-09-27 17:57:50.144] [exthost] [info] ExtensionService#loadCommonJSModule file:///Users/Chase/.vscode/extensions/ms-vscode.sublime-keybindings-4.0.10/dist/extension.js
+[2021-09-27 17:57:50.146] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"extensionId":{"value":"ritwickdey.LiveServer","_lower":"ritwickdey.liveserver"},"activationEvent":"*"}
+[2021-09-27 17:57:50.146] [exthost] [info] ExtensionService#loadCommonJSModule file:///Users/Chase/.vscode/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2021-09-27 17:57:50.430] [exthost] [info] ExtensionService#_doActivateExtension shyykoserhiy.vscode-spotify {"startup":true,"extensionId":{"value":"shyykoserhiy.vscode-spotify","_lower":"shyykoserhiy.vscode-spotify"},"activationEvent":"*"}
+[2021-09-27 17:57:50.430] [exthost] [info] ExtensionService#loadCommonJSModule file:///Users/Chase/.vscode/extensions/shyykoserhiy.vscode-spotify-3.2.1/out/extension.js
+[2021-09-27 17:57:50.604] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim {"startup":true,"extensionId":{"value":"vscodevim.vim","_lower":"vscodevim.vim"},"activationEvent":"*"}
+[2021-09-27 17:57:50.604] [exthost] [info] ExtensionService#loadCommonJSModule file:///Users/Chase/.vscode/extensions/vscodevim.vim-1.21.7/out/extension
+[2021-09-27 17:57:50.720] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-09-27 17:57:50.720] [exthost] [info] ExtensionService#loadCommonJSModule file:///Applications/Visual Studio Code.app/Contents/Resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-09-27 17:57:50.778] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":false,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-09-27 17:57:50.778] [exthost] [info] ExtensionService#loadCommonJSModule file:///Applications/Visual Studio Code.app/Contents/Resources/app/extensions/github/dist/extension.js
+[2021-09-27 17:57:50.786] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-09-27 17:57:50.786] [exthost] [info] ExtensionService#loadCommonJSModule file:///Applications/Visual Studio Code.app/Contents/Resources/app/extensions/github-authentication/dist/extension.js
+[2021-09-27 17:57:50.794] [exthost] [info] eager extensions activated
+[2021-09-27 17:57:50.800] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-09-27 17:57:50.800] [exthost] [info] ExtensionService#loadCommonJSModule file:///Applications/Visual Studio Code.app/Contents/Resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-09-27 17:57:50.803] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-09-27 17:57:50.803] [exthost] [info] ExtensionService#loadCommonJSModule file:///Applications/Visual Studio Code.app/Contents/Resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-09-27 17:57:50.804] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":false,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"onStartupFinished"}
+[2021-09-27 17:57:50.804] [exthost] [info] ExtensionService#loadCommonJSModule file:///Users/Chase/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/client/out/extension
+[2021-09-27 17:57:50.817] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":false,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"onStartupFinished"}
+[2021-09-27 17:57:50.817] [exthost] [info] ExtensionService#loadCommonJSModule file:///Users/Chase/.vscode/extensions/esbenp.prettier-vscode-9.0.0/dist/extension
+[2021-09-27 17:57:55.509] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-09-27 17:57:55.517] [exthost] [error] Error: ENOENT: no such file or directory, open '/Users/Chase/Library/Application Support/Code/User/globalStorage/vscodevim.vim/.registers'
+[2021-09-27 17:57:56.273] [exthost] [info] extension host started
+[2021-09-27 17:57:56.273] [exthost] [info] Skipping acquiring lock for /Users/Chase/Library/Application Support/Code/User/workspaceStorage/15e6f90a4036f768c982fac73bea0cc9.
+[2021-09-27 17:57:56.319] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-09-27 17:57:56.319] [exthost] [info] ExtensionService#loadCommonJSModule file:///Applications/Visual Studio Code.app/Contents/Resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-09-27 17:57:56.325] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-09-27 17:57:56.325] [exthost] [info] ExtensionService#loadCommonJSModule file:///Applications/Visual Studio Code.app/Contents/Resources/app/extensions/debug-auto-launch/dist/extension
+[2021-09-27 17:57:56.326] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-09-27 17:57:56.326] [exthost] [info] ExtensionService#loadCommonJSModule file:///Applications/Visual Studio Code.app/Contents/Resources/app/extensions/git/dist/main
+[2021-09-27 17:57:56.335] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer {"startup":true,"extensionId":{"value":"CoenraadS.bracket-pair-colorizer","_lower":"coenraads.bracket-pair-colorizer"},"activationEvent":"*"}
+[2021-09-27 17:57:56.336] [exthost] [info] ExtensionService#loadCommonJSModule file:///Users/Chase/.vscode/extensions/coenraads.bracket-pair-colorizer-1.0.61/out/src/extension
+[2021-09-27 17:57:56.345] [exthost] [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css {"startup":true,"extensionId":{"value":"ecmel.vscode-html-css","_lower":"ecmel.vscode-html-css"},"activationEvent":"*"}
+[2021-09-27 17:57:56.345] [exthost] [info] ExtensionService#loadCommonJSModule file:///Users/Chase/.vscode/extensions/ecmel.vscode-html-css-1.10.2/dist/extension.js
+[2021-09-27 17:57:56.359] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag {"startup":true,"extensionId":{"value":"formulahendry.auto-rename-tag","_lower":"formulahendry.auto-rename-tag"},"activationEvent":"*"}
+[2021-09-27 17:57:56.359] [exthost] [info] ExtensionService#loadCommonJSModule file:///Users/Chase/.vscode/extensions/formulahendry.auto-rename-tag-0.1.8/packages/extension/dist/extensionMain.js
+[2021-09-27 17:57:56.369] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.sublime-keybindings {"startup":true,"extensionId":{"value":"ms-vscode.sublime-keybindings","_lower":"ms-vscode.sublime-keybindings"},"activationEvent":"*"}
+[2021-09-27 17:57:56.369] [exthost] [info] ExtensionService#loadCommonJSModule file:///Users/Chase/.vscode/extensions/ms-vscode.sublime-keybindings-4.0.10/dist/extension.js
+[2021-09-27 17:57:56.370] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"extensionId":{"value":"ritwickdey.LiveServer","_lower":"ritwickdey.liveserver"},"activationEvent":"*"}
+[2021-09-27 17:57:56.370] [exthost] [info] ExtensionService#loadCommonJSModule file:///Users/Chase/.vscode/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2021-09-27 17:57:56.519] [exthost] [info] exiting with code 0
+[2021-09-27 17:57:56.644] [exthost] [info] ExtensionService#_doActivateExtension shyykoserhiy.vscode-spotify {"startup":true,"extensionId":{"value":"shyykoserhiy.vscode-spotify","_lower":"shyykoserhiy.vscode-spotify"},"activationEvent":"*"}
+[2021-09-27 17:57:56.644] [exthost] [info] ExtensionService#loadCommonJSModule file:///Users/Chase/.vscode/extensions/shyykoserhiy.vscode-spotify-3.2.1/out/extension.js
+[2021-09-27 17:57:56.738] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim {"startup":true,"extensionId":{"value":"vscodevim.vim","_lower":"vscodevim.vim"},"activationEvent":"*"}
+[2021-09-27 17:57:56.738] [exthost] [info] ExtensionService#loadCommonJSModule file:///Users/Chase/.vscode/extensions/vscodevim.vim-1.21.7/out/extension
+[2021-09-27 17:57:56.829] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-09-27 17:57:56.829] [exthost] [info] ExtensionService#loadCommonJSModule file:///Applications/Visual Studio Code.app/Contents/Resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-09-27 17:57:56.880] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-09-27 17:57:56.880] [exthost] [info] ExtensionService#loadCommonJSModule file:///Applications/Visual Studio Code.app/Contents/Resources/app/extensions/github-authentication/dist/extension.js
+[2021-09-27 17:57:56.923] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-09-27 17:57:56.923] [exthost] [info] ExtensionService#loadCommonJSModule file:///Applications/Visual Studio Code.app/Contents/Resources/app/extensions/github/dist/extension.js
+[2021-09-27 17:57:56.925] [exthost] [info] eager extensions activated
+[2021-09-27 17:57:56.926] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-09-27 17:57:56.926] [exthost] [info] ExtensionService#loadCommonJSModule file:///Applications/Visual Studio Code.app/Contents/Resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-09-27 17:57:56.928] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-09-27 17:57:56.928] [exthost] [info] ExtensionService#loadCommonJSModule file:///Applications/Visual Studio Code.app/Contents/Resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-09-27 17:57:56.929] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":false,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"onStartupFinished"}
+[2021-09-27 17:57:56.929] [exthost] [info] ExtensionService#loadCommonJSModule file:///Users/Chase/.vscode/extensions/dbaeumer.vscode-eslint-2.1.25/client/out/extension
+[2021-09-27 17:57:56.942] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":false,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"onStartupFinished"}
+[2021-09-27 17:57:56.942] [exthost] [info] ExtensionService#loadCommonJSModule file:///Users/Chase/.vscode/extensions/esbenp.prettier-vscode-9.0.0/dist/extension
+[2021-09-27 17:58:05.390] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 5000
+[2021-09-27 18:04:35.940] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-09-27 18:04:35.955] [exthost] [error] Error: ENOENT: no such file or directory, open '/Users/Chase/Library/Application Support/Code/User/globalStorage/vscodevim.vim/.registers'
+[2021-09-27 18:04:36.956] [exthost] [info] exiting with code 0

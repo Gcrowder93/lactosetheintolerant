@@ -1,0 +1,9 @@
+2021/09/27-18:34:07.593 4e03 Reusing MANIFEST /Users/Chase/Library/Application Support/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2021/09/27-18:34:07.610 4e03 Recovering log #4
+2021/09/27-18:34:07.611 4e03 Reusing old log /Users/Chase/Library/Application Support/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000004.log 
+2021/09/27-18:51:38.300 3907 Level-0 table #8: started
+2021/09/27-18:51:38.323 3907 Level-0 table #8: 175821 bytes OK
+2021/09/27-18:51:38.361 3907 Delete type=0 #4
+2021/09/27-19:45:09.387 383f Level-0 table #10: started
+2021/09/27-19:45:09.412 383f Level-0 table #10: 21211 bytes OK
+2021/09/27-19:45:09.472 383f Delete type=0 #7
