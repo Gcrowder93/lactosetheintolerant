@@ -1,0 +1,739 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/local/bin/node', '/usr/local/bin/npm', 'i', '-g', 'eslint' ]
+2 info using npm@6.14.13
+3 info using node@v14.17.3
+4 verbose npm-session f39b00463afde608
+5 silly install loadCurrentTree
+6 silly install readGlobalPackageData
+7 http fetch GET 304 https://registry.npmjs.org/eslint 360ms (from cache)
+8 silly pacote tag manifest for eslint@latest fetched in 383ms
+9 timing stage:loadCurrentTree Completed in 574ms
+10 silly install loadIdealTree
+11 silly install cloneCurrentTreeToIdealTree
+12 timing stage:loadIdealTree:cloneCurrentTree Completed in 1ms
+13 silly install loadShrinkwrap
+14 timing stage:loadIdealTree:loadShrinkwrap Completed in 39ms
+15 silly install loadAllDepsIntoIdealTree
+16 silly resolveWithNewModule eslint@7.32.0 checking installable status
+17 silly removeObsoleteDep removing eslint@7.32.0 from the tree as its been replaced by a newer version or is no longer required
+18 silly removeObsoleteDep removing @babel/code-frame@7.12.11 from the tree as its been replaced by a newer version or is no longer required
+19 silly removeObsoleteDep removing @babel/highlight@7.14.5 from the tree as its been replaced by a newer version or is no longer required
+20 silly removeObsoleteDep removing @babel/helper-validator-identifier@7.15.7 from the tree as its been replaced by a newer version or is no longer required
+21 silly removeObsoleteDep removing chalk@2.4.2 from the tree as its been replaced by a newer version or is no longer required
+22 silly removeObsoleteDep removing ansi-styles@3.2.1 from the tree as its been replaced by a newer version or is no longer required
+23 silly removeObsoleteDep removing color-convert@1.9.3 from the tree as its been replaced by a newer version or is no longer required
+24 silly removeObsoleteDep removing color-name@1.1.3 from the tree as its been replaced by a newer version or is no longer required
+25 silly removeObsoleteDep removing escape-string-regexp@1.0.5 from the tree as its been replaced by a newer version or is no longer required
+26 silly removeObsoleteDep removing supports-color@5.5.0 from the tree as its been replaced by a newer version or is no longer required
+27 silly removeObsoleteDep removing has-flag@3.0.0 from the tree as its been replaced by a newer version or is no longer required
+28 silly removeObsoleteDep removing js-tokens@4.0.0 from the tree as its been replaced by a newer version or is no longer required
+29 silly removeObsoleteDep removing @eslint/eslintrc@0.4.3 from the tree as its been replaced by a newer version or is no longer required
+30 silly removeObsoleteDep removing @humanwhocodes/config-array@0.5.0 from the tree as its been replaced by a newer version or is no longer required
+31 silly removeObsoleteDep removing @humanwhocodes/object-schema@1.2.0 from the tree as its been replaced by a newer version or is no longer required
+32 silly removeObsoleteDep removing ajv@6.12.6 from the tree as its been replaced by a newer version or is no longer required
+33 silly removeObsoleteDep removing fast-json-stable-stringify@2.1.0 from the tree as its been replaced by a newer version or is no longer required
+34 silly removeObsoleteDep removing json-schema-traverse@0.4.1 from the tree as its been replaced by a newer version or is no longer required
+35 silly removeObsoleteDep removing chalk@4.1.2 from the tree as its been replaced by a newer version or is no longer required
+36 silly removeObsoleteDep removing ansi-styles@4.3.0 from the tree as its been replaced by a newer version or is no longer required
+37 silly removeObsoleteDep removing color-convert@2.0.1 from the tree as its been replaced by a newer version or is no longer required
+38 silly removeObsoleteDep removing color-name@1.1.4 from the tree as its been replaced by a newer version or is no longer required
+39 silly removeObsoleteDep removing supports-color@7.2.0 from the tree as its been replaced by a newer version or is no longer required
+40 silly removeObsoleteDep removing has-flag@4.0.0 from the tree as its been replaced by a newer version or is no longer required
+41 silly removeObsoleteDep removing cross-spawn@7.0.3 from the tree as its been replaced by a newer version or is no longer required
+42 silly removeObsoleteDep removing path-key@3.1.1 from the tree as its been replaced by a newer version or is no longer required
+43 silly removeObsoleteDep removing shebang-command@2.0.0 from the tree as its been replaced by a newer version or is no longer required
+44 silly removeObsoleteDep removing shebang-regex@3.0.0 from the tree as its been replaced by a newer version or is no longer required
+45 silly removeObsoleteDep removing which@2.0.2 from the tree as its been replaced by a newer version or is no longer required
+46 silly removeObsoleteDep removing isexe@2.0.0 from the tree as its been replaced by a newer version or is no longer required
+47 silly removeObsoleteDep removing debug@4.3.2 from the tree as its been replaced by a newer version or is no longer required
+48 silly removeObsoleteDep removing ms@2.1.2 from the tree as its been replaced by a newer version or is no longer required
+49 silly removeObsoleteDep removing doctrine@3.0.0 from the tree as its been replaced by a newer version or is no longer required
+50 silly removeObsoleteDep removing enquirer@2.3.6 from the tree as its been replaced by a newer version or is no longer required
+51 silly removeObsoleteDep removing ansi-colors@4.1.1 from the tree as its been replaced by a newer version or is no longer required
+52 silly removeObsoleteDep removing escape-string-regexp@4.0.0 from the tree as its been replaced by a newer version or is no longer required
+53 silly removeObsoleteDep removing eslint-scope@5.1.1 from the tree as its been replaced by a newer version or is no longer required
+54 silly removeObsoleteDep removing esrecurse@4.3.0 from the tree as its been replaced by a newer version or is no longer required
+55 silly removeObsoleteDep removing estraverse@5.2.0 from the tree as its been replaced by a newer version or is no longer required
+56 silly removeObsoleteDep removing estraverse@4.3.0 from the tree as its been replaced by a newer version or is no longer required
+57 silly removeObsoleteDep removing eslint-utils@2.1.0 from the tree as its been replaced by a newer version or is no longer required
+58 silly removeObsoleteDep removing eslint-visitor-keys@1.3.0 from the tree as its been replaced by a newer version or is no longer required
+59 silly removeObsoleteDep removing eslint-visitor-keys@2.1.0 from the tree as its been replaced by a newer version or is no longer required
+60 silly removeObsoleteDep removing espree@7.3.1 from the tree as its been replaced by a newer version or is no longer required
+61 silly removeObsoleteDep removing acorn@7.4.1 from the tree as its been replaced by a newer version or is no longer required
+62 silly removeObsoleteDep removing acorn-jsx@5.3.2 from the tree as its been replaced by a newer version or is no longer required
+63 silly removeObsoleteDep removing eslint-visitor-keys@1.3.0 from the tree as its been replaced by a newer version or is no longer required
+64 silly removeObsoleteDep removing esquery@1.4.0 from the tree as its been replaced by a newer version or is no longer required
+65 silly removeObsoleteDep removing estraverse@5.2.0 from the tree as its been replaced by a newer version or is no longer required
+66 silly removeObsoleteDep removing esutils@2.0.3 from the tree as its been replaced by a newer version or is no longer required
+67 silly removeObsoleteDep removing file-entry-cache@6.0.1 from the tree as its been replaced by a newer version or is no longer required
+68 silly removeObsoleteDep removing flat-cache@3.0.4 from the tree as its been replaced by a newer version or is no longer required
+69 silly removeObsoleteDep removing flatted@3.2.2 from the tree as its been replaced by a newer version or is no longer required
+70 silly removeObsoleteDep removing rimraf@3.0.2 from the tree as its been replaced by a newer version or is no longer required
+71 silly removeObsoleteDep removing glob@7.2.0 from the tree as its been replaced by a newer version or is no longer required
+72 silly removeObsoleteDep removing fs.realpath@1.0.0 from the tree as its been replaced by a newer version or is no longer required
+73 silly removeObsoleteDep removing inflight@1.0.6 from the tree as its been replaced by a newer version or is no longer required
+74 silly removeObsoleteDep removing once@1.4.0 from the tree as its been replaced by a newer version or is no longer required
+75 silly removeObsoleteDep removing wrappy@1.0.2 from the tree as its been replaced by a newer version or is no longer required
+76 silly removeObsoleteDep removing inherits@2.0.4 from the tree as its been replaced by a newer version or is no longer required
+77 silly removeObsoleteDep removing path-is-absolute@1.0.1 from the tree as its been replaced by a newer version or is no longer required
+78 silly removeObsoleteDep removing functional-red-black-tree@1.0.1 from the tree as its been replaced by a newer version or is no longer required
+79 silly removeObsoleteDep removing glob-parent@5.1.2 from the tree as its been replaced by a newer version or is no longer required
+80 silly removeObsoleteDep removing globals@13.11.0 from the tree as its been replaced by a newer version or is no longer required
+81 silly removeObsoleteDep removing type-fest@0.20.2 from the tree as its been replaced by a newer version or is no longer required
+82 silly removeObsoleteDep removing ignore@4.0.6 from the tree as its been replaced by a newer version or is no longer required
+83 silly removeObsoleteDep removing import-fresh@3.3.0 from the tree as its been replaced by a newer version or is no longer required
+84 silly removeObsoleteDep removing parent-module@1.0.1 from the tree as its been replaced by a newer version or is no longer required
+85 silly removeObsoleteDep removing callsites@3.1.0 from the tree as its been replaced by a newer version or is no longer required
+86 silly removeObsoleteDep removing resolve-from@4.0.0 from the tree as its been replaced by a newer version or is no longer required
+87 silly removeObsoleteDep removing imurmurhash@0.1.4 from the tree as its been replaced by a newer version or is no longer required
+88 silly removeObsoleteDep removing is-glob@4.0.2 from the tree as its been replaced by a newer version or is no longer required
+89 silly removeObsoleteDep removing is-extglob@2.1.1 from the tree as its been replaced by a newer version or is no longer required
+90 silly removeObsoleteDep removing js-yaml@3.14.1 from the tree as its been replaced by a newer version or is no longer required
+91 silly removeObsoleteDep removing argparse@1.0.10 from the tree as its been replaced by a newer version or is no longer required
+92 silly removeObsoleteDep removing sprintf-js@1.0.3 from the tree as its been replaced by a newer version or is no longer required
+93 silly removeObsoleteDep removing esprima@4.0.1 from the tree as its been replaced by a newer version or is no longer required
+94 silly removeObsoleteDep removing json-stable-stringify-without-jsonify@1.0.1 from the tree as its been replaced by a newer version or is no longer required
+95 silly removeObsoleteDep removing lodash.merge@4.6.2 from the tree as its been replaced by a newer version or is no longer required
+96 silly removeObsoleteDep removing minimatch@3.0.4 from the tree as its been replaced by a newer version or is no longer required
+97 silly removeObsoleteDep removing brace-expansion@1.1.11 from the tree as its been replaced by a newer version or is no longer required
+98 silly removeObsoleteDep removing balanced-match@1.0.2 from the tree as its been replaced by a newer version or is no longer required
+99 silly removeObsoleteDep removing concat-map@0.0.1 from the tree as its been replaced by a newer version or is no longer required
+100 silly removeObsoleteDep removing natural-compare@1.4.0 from the tree as its been replaced by a newer version or is no longer required
+101 silly removeObsoleteDep removing optionator@0.9.1 from the tree as its been replaced by a newer version or is no longer required
+102 silly removeObsoleteDep removing deep-is@0.1.4 from the tree as its been replaced by a newer version or is no longer required
+103 silly removeObsoleteDep removing fast-levenshtein@2.0.6 from the tree as its been replaced by a newer version or is no longer required
+104 silly removeObsoleteDep removing levn@0.4.1 from the tree as its been replaced by a newer version or is no longer required
+105 silly removeObsoleteDep removing prelude-ls@1.2.1 from the tree as its been replaced by a newer version or is no longer required
+106 silly removeObsoleteDep removing type-check@0.4.0 from the tree as its been replaced by a newer version or is no longer required
+107 silly removeObsoleteDep removing word-wrap@1.2.3 from the tree as its been replaced by a newer version or is no longer required
+108 silly removeObsoleteDep removing progress@2.0.3 from the tree as its been replaced by a newer version or is no longer required
+109 silly removeObsoleteDep removing regexpp@3.2.0 from the tree as its been replaced by a newer version or is no longer required
+110 silly removeObsoleteDep removing semver@7.3.5 from the tree as its been replaced by a newer version or is no longer required
+111 silly removeObsoleteDep removing lru-cache@6.0.0 from the tree as its been replaced by a newer version or is no longer required
+112 silly removeObsoleteDep removing yallist@4.0.0 from the tree as its been replaced by a newer version or is no longer required
+113 silly removeObsoleteDep removing strip-json-comments@3.1.1 from the tree as its been replaced by a newer version or is no longer required
+114 silly removeObsoleteDep removing table@6.7.1 from the tree as its been replaced by a newer version or is no longer required
+115 silly removeObsoleteDep removing ajv@8.6.3 from the tree as its been replaced by a newer version or is no longer required
+116 silly removeObsoleteDep removing fast-deep-equal@3.1.3 from the tree as its been replaced by a newer version or is no longer required
+117 silly removeObsoleteDep removing json-schema-traverse@1.0.0 from the tree as its been replaced by a newer version or is no longer required
+118 silly removeObsoleteDep removing require-from-string@2.0.2 from the tree as its been replaced by a newer version or is no longer required
+119 silly removeObsoleteDep removing uri-js@4.4.1 from the tree as its been replaced by a newer version or is no longer required
+120 silly removeObsoleteDep removing punycode@2.1.1 from the tree as its been replaced by a newer version or is no longer required
+121 silly removeObsoleteDep removing lodash.clonedeep@4.5.0 from the tree as its been replaced by a newer version or is no longer required
+122 silly removeObsoleteDep removing lodash.truncate@4.4.2 from the tree as its been replaced by a newer version or is no longer required
+123 silly removeObsoleteDep removing slice-ansi@4.0.0 from the tree as its been replaced by a newer version or is no longer required
+124 silly removeObsoleteDep removing ansi-styles@4.3.0 from the tree as its been replaced by a newer version or is no longer required
+125 silly removeObsoleteDep removing color-convert@2.0.1 from the tree as its been replaced by a newer version or is no longer required
+126 silly removeObsoleteDep removing color-name@1.1.4 from the tree as its been replaced by a newer version or is no longer required
+127 silly removeObsoleteDep removing astral-regex@2.0.0 from the tree as its been replaced by a newer version or is no longer required
+128 silly removeObsoleteDep removing is-fullwidth-code-point@3.0.0 from the tree as its been replaced by a newer version or is no longer required
+129 silly removeObsoleteDep removing string-width@4.2.3 from the tree as its been replaced by a newer version or is no longer required
+130 silly removeObsoleteDep removing emoji-regex@8.0.0 from the tree as its been replaced by a newer version or is no longer required
+131 silly removeObsoleteDep removing strip-ansi@6.0.1 from the tree as its been replaced by a newer version or is no longer required
+132 silly removeObsoleteDep removing ansi-regex@5.0.1 from the tree as its been replaced by a newer version or is no longer required
+133 silly removeObsoleteDep removing text-table@0.2.0 from the tree as its been replaced by a newer version or is no longer required
+134 silly removeObsoleteDep removing v8-compile-cache@2.3.0 from the tree as its been replaced by a newer version or is no longer required
+135 http fetch GET 304 https://registry.npmjs.org/@eslint%2feslintrc 119ms (from cache)
+136 silly pacote range manifest for @eslint/eslintrc@^0.4.3 fetched in 122ms
+137 silly resolveWithNewModule @eslint/eslintrc@0.4.3 checking installable status
+138 http fetch GET 304 https://registry.npmjs.org/doctrine 199ms (from cache)
+139 silly pacote range manifest for doctrine@^3.0.0 fetched in 203ms
+140 silly resolveWithNewModule doctrine@3.0.0 checking installable status
+141 http fetch GET 304 https://registry.npmjs.org/cross-spawn 211ms (from cache)
+142 http fetch GET 304 https://registry.npmjs.org/chalk 216ms (from cache)
+143 silly pacote range manifest for cross-spawn@^7.0.2 fetched in 216ms
+144 silly resolveWithNewModule cross-spawn@7.0.3 checking installable status
+145 http fetch GET 304 https://registry.npmjs.org/enquirer 215ms (from cache)
+146 http fetch GET 304 https://registry.npmjs.org/eslint-scope 97ms (from cache)
+147 silly pacote range manifest for chalk@^4.0.0 fetched in 221ms
+148 silly resolveWithNewModule chalk@4.1.2 checking installable status
+149 silly pacote range manifest for enquirer@^2.3.5 fetched in 222ms
+150 silly resolveWithNewModule enquirer@2.3.6 checking installable status
+151 silly pacote range manifest for eslint-scope@^5.1.1 fetched in 106ms
+152 silly resolveWithNewModule eslint-scope@5.1.1 checking installable status
+153 http fetch GET 304 https://registry.npmjs.org/ajv 232ms (from cache)
+154 http fetch GET 304 https://registry.npmjs.org/escape-string-regexp 234ms (from cache)
+155 silly pacote range manifest for ajv@^6.10.0 fetched in 239ms
+156 silly resolveWithNewModule ajv@6.12.6 checking installable status
+157 silly pacote range manifest for escape-string-regexp@^4.0.0 fetched in 236ms
+158 silly resolveWithNewModule escape-string-regexp@4.0.0 checking installable status
+159 http fetch GET 304 https://registry.npmjs.org/@babel%2fcode-frame 244ms (from cache)
+160 http fetch GET 304 https://registry.npmjs.org/@humanwhocodes%2fconfig-array 244ms (from cache)
+161 silly pacote version manifest for @babel/code-frame@7.12.11 fetched in 250ms
+162 silly resolveWithNewModule @babel/code-frame@7.12.11 checking installable status
+163 silly pacote range manifest for @humanwhocodes/config-array@^0.5.0 fetched in 245ms
+164 silly resolveWithNewModule @humanwhocodes/config-array@0.5.0 checking installable status
+165 http fetch GET 304 https://registry.npmjs.org/debug 251ms (from cache)
+166 silly pacote range manifest for debug@^4.0.1 fetched in 255ms
+167 silly resolveWithNewModule debug@4.3.2 checking installable status
+168 http fetch GET 304 https://registry.npmjs.org/eslint-utils 71ms (from cache)
+169 silly pacote range manifest for eslint-utils@^2.1.0 fetched in 72ms
+170 silly resolveWithNewModule eslint-utils@2.1.0 checking installable status
+171 http fetch GET 304 https://registry.npmjs.org/esutils 73ms (from cache)
+172 http fetch GET 304 https://registry.npmjs.org/esquery 80ms (from cache)
+173 http fetch GET 304 https://registry.npmjs.org/eslint-visitor-keys 89ms (from cache)
+174 silly pacote range manifest for esutils@^2.0.2 fetched in 81ms
+175 silly resolveWithNewModule esutils@2.0.3 checking installable status
+176 silly pacote range manifest for esquery@^1.4.0 fetched in 86ms
+177 silly resolveWithNewModule esquery@1.4.0 checking installable status
+178 silly pacote range manifest for eslint-visitor-keys@^2.0.0 fetched in 95ms
+179 silly resolveWithNewModule eslint-visitor-keys@2.1.0 checking installable status
+180 http fetch GET 304 https://registry.npmjs.org/file-entry-cache 87ms (from cache)
+181 http fetch GET 304 https://registry.npmjs.org/fast-deep-equal 92ms (from cache)
+182 http fetch GET 304 https://registry.npmjs.org/espree 106ms (from cache)
+183 silly pacote range manifest for file-entry-cache@^6.0.1 fetched in 94ms
+184 silly resolveWithNewModule file-entry-cache@6.0.1 checking installable status
+185 http fetch GET 304 https://registry.npmjs.org/functional-red-black-tree 90ms (from cache)
+186 silly pacote range manifest for fast-deep-equal@^3.1.3 fetched in 98ms
+187 silly resolveWithNewModule fast-deep-equal@3.1.3 checking installable status
+188 silly pacote range manifest for espree@^7.3.1 fetched in 112ms
+189 silly resolveWithNewModule espree@7.3.1 checking installable status
+190 silly pacote range manifest for functional-red-black-tree@^1.0.1 fetched in 93ms
+191 silly resolveWithNewModule functional-red-black-tree@1.0.1 checking installable status
+192 http fetch GET 304 https://registry.npmjs.org/glob-parent 93ms (from cache)
+193 silly pacote range manifest for glob-parent@^5.1.2 fetched in 99ms
+194 silly resolveWithNewModule glob-parent@5.1.2 checking installable status
+195 http fetch GET 304 https://registry.npmjs.org/globals 95ms (from cache)
+196 silly pacote range manifest for globals@^13.6.0 fetched in 98ms
+197 silly resolveWithNewModule globals@13.11.0 checking installable status
+198 http fetch GET 304 https://registry.npmjs.org/ignore 81ms (from cache)
+199 silly pacote range manifest for ignore@^4.0.6 fetched in 82ms
+200 silly resolveWithNewModule ignore@4.0.6 checking installable status
+201 http fetch GET 304 https://registry.npmjs.org/import-fresh 67ms (from cache)
+202 silly pacote range manifest for import-fresh@^3.0.0 fetched in 68ms
+203 silly resolveWithNewModule import-fresh@3.3.0 checking installable status
+204 http fetch GET 304 https://registry.npmjs.org/imurmurhash 74ms (from cache)
+205 silly pacote range manifest for imurmurhash@^0.1.4 fetched in 75ms
+206 silly resolveWithNewModule imurmurhash@0.1.4 checking installable status
+207 http fetch GET 304 https://registry.npmjs.org/is-glob 80ms (from cache)
+208 silly pacote range manifest for is-glob@^4.0.0 fetched in 82ms
+209 silly resolveWithNewModule is-glob@4.0.2 checking installable status
+210 http fetch GET 304 https://registry.npmjs.org/js-yaml 66ms (from cache)
+211 silly pacote range manifest for js-yaml@^3.13.1 fetched in 68ms
+212 silly resolveWithNewModule js-yaml@3.14.1 checking installable status
+213 http fetch GET 304 https://registry.npmjs.org/json-stable-stringify-without-jsonify 71ms (from cache)
+214 silly pacote range manifest for json-stable-stringify-without-jsonify@^1.0.1 fetched in 72ms
+215 silly resolveWithNewModule json-stable-stringify-without-jsonify@1.0.1 checking installable status
+216 http fetch GET 304 https://registry.npmjs.org/minimatch 75ms (from cache)
+217 http fetch GET 304 https://registry.npmjs.org/lodash.merge 88ms (from cache)
+218 silly pacote range manifest for minimatch@^3.0.4 fetched in 77ms
+219 silly resolveWithNewModule minimatch@3.0.4 checking installable status
+220 silly pacote range manifest for lodash.merge@^4.6.2 fetched in 89ms
+221 silly resolveWithNewModule lodash.merge@4.6.2 checking installable status
+222 http fetch GET 304 https://registry.npmjs.org/levn 93ms (from cache)
+223 http fetch GET 304 https://registry.npmjs.org/natural-compare 72ms (from cache)
+224 http fetch GET 304 https://registry.npmjs.org/optionator 71ms (from cache)
+225 silly pacote range manifest for levn@^0.4.1 fetched in 97ms
+226 silly resolveWithNewModule levn@0.4.1 checking installable status
+227 silly pacote range manifest for natural-compare@^1.4.0 fetched in 76ms
+228 silly resolveWithNewModule natural-compare@1.4.0 checking installable status
+229 silly pacote range manifest for optionator@^0.9.1 fetched in 74ms
+230 silly resolveWithNewModule optionator@0.9.1 checking installable status
+231 http fetch GET 304 https://registry.npmjs.org/progress 64ms (from cache)
+232 silly pacote range manifest for progress@^2.0.0 fetched in 65ms
+233 silly resolveWithNewModule progress@2.0.3 checking installable status
+234 http fetch GET 304 https://registry.npmjs.org/regexpp 68ms (from cache)
+235 silly pacote range manifest for regexpp@^3.1.0 fetched in 69ms
+236 silly resolveWithNewModule regexpp@3.2.0 checking installable status
+237 http fetch GET 304 https://registry.npmjs.org/strip-ansi 75ms (from cache)
+238 silly pacote range manifest for strip-ansi@^6.0.0 fetched in 76ms
+239 silly resolveWithNewModule strip-ansi@6.0.1 checking installable status
+240 http fetch GET 304 https://registry.npmjs.org/semver 82ms (from cache)
+241 silly pacote range manifest for semver@^7.2.1 fetched in 83ms
+242 silly resolveWithNewModule semver@7.3.5 checking installable status
+243 http fetch GET 304 https://registry.npmjs.org/v8-compile-cache 64ms (from cache)
+244 silly pacote range manifest for v8-compile-cache@^2.0.3 fetched in 65ms
+245 silly resolveWithNewModule v8-compile-cache@2.3.0 checking installable status
+246 http fetch GET 304 https://registry.npmjs.org/text-table 75ms (from cache)
+247 silly pacote range manifest for text-table@^0.2.0 fetched in 76ms
+248 silly resolveWithNewModule text-table@0.2.0 checking installable status
+249 http fetch GET 304 https://registry.npmjs.org/table 81ms (from cache)
+250 silly pacote range manifest for table@^6.0.9 fetched in 83ms
+251 silly resolveWithNewModule table@6.7.1 checking installable status
+252 http fetch GET 304 https://registry.npmjs.org/strip-json-comments 131ms (from cache)
+253 silly pacote range manifest for strip-json-comments@^3.1.0 fetched in 133ms
+254 silly resolveWithNewModule strip-json-comments@3.1.1 checking installable status
+255 http fetch GET 304 https://registry.npmjs.org/@babel%2fhighlight 82ms (from cache)
+256 silly pacote range manifest for @babel/highlight@^7.10.4 fetched in 84ms
+257 silly resolveWithNewModule @babel/highlight@7.14.5 checking installable status
+258 silly pacote range manifest for chalk@^2.0.0 fetched in 3ms
+259 silly resolveWithNewModule chalk@2.4.2 checking installable status
+260 http fetch GET 304 https://registry.npmjs.org/js-tokens 95ms (from cache)
+261 http fetch GET 304 https://registry.npmjs.org/@babel%2fhelper-validator-identifier 98ms (from cache)
+262 silly pacote range manifest for js-tokens@^4.0.0 fetched in 98ms
+263 silly resolveWithNewModule js-tokens@4.0.0 checking installable status
+264 silly pacote range manifest for @babel/helper-validator-identifier@^7.14.5 fetched in 101ms
+265 silly resolveWithNewModule @babel/helper-validator-identifier@7.15.7 checking installable status
+266 silly pacote range manifest for escape-string-regexp@^1.0.5 fetched in 6ms
+267 silly resolveWithNewModule escape-string-regexp@1.0.5 checking installable status
+268 http fetch GET 304 https://registry.npmjs.org/supports-color 88ms (from cache)
+269 silly pacote range manifest for supports-color@^5.3.0 fetched in 90ms
+270 silly resolveWithNewModule supports-color@5.5.0 checking installable status
+271 http fetch GET 304 https://registry.npmjs.org/ansi-styles 103ms (from cache)
+272 silly pacote range manifest for ansi-styles@^3.2.1 fetched in 104ms
+273 silly resolveWithNewModule ansi-styles@3.2.1 checking installable status
+274 http fetch GET 304 https://registry.npmjs.org/color-convert 75ms (from cache)
+275 silly pacote range manifest for color-convert@^1.9.0 fetched in 76ms
+276 silly resolveWithNewModule color-convert@1.9.3 checking installable status
+277 http fetch GET 304 https://registry.npmjs.org/color-name 87ms (from cache)
+278 silly pacote version manifest for color-name@1.1.3 fetched in 92ms
+279 silly resolveWithNewModule color-name@1.1.3 checking installable status
+280 http fetch GET 304 https://registry.npmjs.org/has-flag 74ms (from cache)
+281 silly pacote range manifest for has-flag@^3.0.0 fetched in 75ms
+282 silly resolveWithNewModule has-flag@3.0.0 checking installable status
+283 http fetch GET 304 https://registry.npmjs.org/fast-json-stable-stringify 92ms (from cache)
+284 silly pacote range manifest for fast-json-stable-stringify@^2.0.0 fetched in 97ms
+285 silly resolveWithNewModule fast-json-stable-stringify@2.1.0 checking installable status
+286 http fetch GET 304 https://registry.npmjs.org/json-schema-traverse 99ms (from cache)
+287 http fetch GET 304 https://registry.npmjs.org/uri-js 100ms (from cache)
+288 silly pacote range manifest for json-schema-traverse@^0.4.1 fetched in 101ms
+289 silly resolveWithNewModule json-schema-traverse@0.4.1 checking installable status
+290 silly pacote range manifest for uri-js@^4.2.2 fetched in 101ms
+291 silly resolveWithNewModule uri-js@4.4.1 checking installable status
+292 http fetch GET 304 https://registry.npmjs.org/punycode 67ms (from cache)
+293 silly pacote range manifest for punycode@^2.1.0 fetched in 68ms
+294 silly resolveWithNewModule punycode@2.1.1 checking installable status
+295 http fetch GET 304 https://registry.npmjs.org/ms 88ms (from cache)
+296 silly pacote version manifest for ms@2.1.2 fetched in 94ms
+297 silly resolveWithNewModule ms@2.1.2 checking installable status
+298 silly pacote range manifest for eslint-visitor-keys@^1.3.0 fetched in 2ms
+299 silly resolveWithNewModule eslint-visitor-keys@1.3.0 checking installable status
+300 http fetch GET 304 https://registry.npmjs.org/acorn-jsx 87ms (from cache)
+301 http fetch GET 304 https://registry.npmjs.org/acorn 95ms (from cache)
+302 silly pacote range manifest for acorn-jsx@^5.3.1 fetched in 99ms
+303 silly resolveWithNewModule acorn-jsx@5.3.2 checking installable status
+304 silly pacote range manifest for acorn@^7.4.0 fetched in 102ms
+305 silly resolveWithNewModule acorn@7.4.1 checking installable status
+306 http fetch GET 304 https://registry.npmjs.org/type-fest 77ms (from cache)
+307 silly pacote range manifest for type-fest@^0.20.2 fetched in 81ms
+308 silly resolveWithNewModule type-fest@0.20.2 checking installable status
+309 http fetch GET 304 https://registry.npmjs.org/parent-module 72ms (from cache)
+310 silly pacote range manifest for parent-module@^1.0.0 fetched in 75ms
+311 silly resolveWithNewModule parent-module@1.0.1 checking installable status
+312 http fetch GET 304 https://registry.npmjs.org/resolve-from 89ms (from cache)
+313 silly pacote range manifest for resolve-from@^4.0.0 fetched in 91ms
+314 silly resolveWithNewModule resolve-from@4.0.0 checking installable status
+315 http fetch GET 304 https://registry.npmjs.org/callsites 72ms (from cache)
+316 silly pacote range manifest for callsites@^3.0.0 fetched in 73ms
+317 silly resolveWithNewModule callsites@3.1.0 checking installable status
+318 http fetch GET 304 https://registry.npmjs.org/argparse 84ms (from cache)
+319 http fetch GET 304 https://registry.npmjs.org/esprima 85ms (from cache)
+320 silly pacote range manifest for argparse@^1.0.7 fetched in 87ms
+321 silly resolveWithNewModule argparse@1.0.10 checking installable status
+322 silly pacote range manifest for esprima@^4.0.0 fetched in 88ms
+323 silly resolveWithNewModule esprima@4.0.1 checking installable status
+324 http fetch GET 304 https://registry.npmjs.org/sprintf-js 73ms (from cache)
+325 silly pacote range manifest for sprintf-js@~1.0.2 fetched in 75ms
+326 silly resolveWithNewModule sprintf-js@1.0.3 checking installable status
+327 http fetch GET 304 https://registry.npmjs.org/brace-expansion 80ms (from cache)
+328 silly pacote range manifest for brace-expansion@^1.1.7 fetched in 84ms
+329 silly resolveWithNewModule brace-expansion@1.1.11 checking installable status
+330 http fetch GET 304 https://registry.npmjs.org/balanced-match 71ms (from cache)
+331 silly pacote range manifest for balanced-match@^1.0.0 fetched in 74ms
+332 silly resolveWithNewModule balanced-match@1.0.2 checking installable status
+333 http fetch GET 304 https://registry.npmjs.org/concat-map 84ms (from cache)
+334 silly pacote version manifest for concat-map@0.0.1 fetched in 86ms
+335 silly resolveWithNewModule concat-map@0.0.1 checking installable status
+336 http fetch GET 304 https://registry.npmjs.org/@humanwhocodes%2fobject-schema 99ms (from cache)
+337 silly pacote range manifest for @humanwhocodes/object-schema@^1.2.0 fetched in 101ms
+338 silly resolveWithNewModule @humanwhocodes/object-schema@1.2.0 checking installable status
+339 silly pacote range manifest for ansi-styles@^4.1.0 fetched in 2ms
+340 silly resolveWithNewModule ansi-styles@4.3.0 checking installable status
+341 silly pacote range manifest for supports-color@^7.1.0 fetched in 5ms
+342 silly resolveWithNewModule supports-color@7.2.0 checking installable status
+343 silly pacote range manifest for color-convert@^2.0.1 fetched in 1ms
+344 silly resolveWithNewModule color-convert@2.0.1 checking installable status
+345 silly pacote range manifest for color-name@~1.1.4 fetched in 1ms
+346 silly resolveWithNewModule color-name@1.1.4 checking installable status
+347 silly pacote range manifest for has-flag@^4.0.0 fetched in 1ms
+348 silly resolveWithNewModule has-flag@4.0.0 checking installable status
+349 http fetch GET 304 https://registry.npmjs.org/path-key 71ms (from cache)
+350 silly pacote range manifest for path-key@^3.1.0 fetched in 74ms
+351 silly resolveWithNewModule path-key@3.1.1 checking installable status
+352 http fetch GET 304 https://registry.npmjs.org/which 88ms (from cache)
+353 http fetch GET 304 https://registry.npmjs.org/shebang-command 90ms (from cache)
+354 silly pacote range manifest for which@^2.0.1 fetched in 91ms
+355 silly resolveWithNewModule which@2.0.2 checking installable status
+356 silly pacote range manifest for shebang-command@^2.0.0 fetched in 93ms
+357 silly resolveWithNewModule shebang-command@2.0.0 checking installable status
+358 http fetch GET 304 https://registry.npmjs.org/shebang-regex 70ms (from cache)
+359 silly pacote range manifest for shebang-regex@^3.0.0 fetched in 71ms
+360 silly resolveWithNewModule shebang-regex@3.0.0 checking installable status
+361 http fetch GET 304 https://registry.npmjs.org/isexe 78ms (from cache)
+362 silly pacote range manifest for isexe@^2.0.0 fetched in 83ms
+363 silly resolveWithNewModule isexe@2.0.0 checking installable status
+364 http fetch GET 304 https://registry.npmjs.org/ansi-colors 76ms (from cache)
+365 silly pacote range manifest for ansi-colors@^4.1.1 fetched in 79ms
+366 silly resolveWithNewModule ansi-colors@4.1.1 checking installable status
+367 http fetch GET 304 https://registry.npmjs.org/estraverse 82ms (from cache)
+368 silly pacote range manifest for estraverse@^4.1.1 fetched in 84ms
+369 silly resolveWithNewModule estraverse@4.3.0 checking installable status
+370 http fetch GET 304 https://registry.npmjs.org/esrecurse 87ms (from cache)
+371 silly pacote range manifest for esrecurse@^4.3.0 fetched in 89ms
+372 silly resolveWithNewModule esrecurse@4.3.0 checking installable status
+373 silly pacote range manifest for estraverse@^5.2.0 fetched in 1ms
+374 silly resolveWithNewModule estraverse@5.2.0 checking installable status
+375 silly pacote range manifest for eslint-visitor-keys@^1.1.0 fetched in 1ms
+376 silly resolveWithNewModule eslint-visitor-keys@1.3.0 checking installable status
+377 silly pacote range manifest for estraverse@^5.1.0 fetched in 0ms
+378 silly resolveWithNewModule estraverse@5.2.0 checking installable status
+379 http fetch GET 304 https://registry.npmjs.org/flat-cache 85ms (from cache)
+380 silly pacote range manifest for flat-cache@^3.0.4 fetched in 88ms
+381 silly resolveWithNewModule flat-cache@3.0.4 checking installable status
+382 http fetch GET 304 https://registry.npmjs.org/flatted 76ms (from cache)
+383 silly pacote range manifest for flatted@^3.1.0 fetched in 80ms
+384 silly resolveWithNewModule flatted@3.2.2 checking installable status
+385 http fetch GET 304 https://registry.npmjs.org/rimraf 83ms (from cache)
+386 silly pacote range manifest for rimraf@^3.0.2 fetched in 85ms
+387 silly resolveWithNewModule rimraf@3.0.2 checking installable status
+388 http fetch GET 304 https://registry.npmjs.org/glob 73ms (from cache)
+389 silly pacote range manifest for glob@^7.1.3 fetched in 75ms
+390 silly resolveWithNewModule glob@7.2.0 checking installable status
+391 http fetch GET 304 https://registry.npmjs.org/inherits 71ms (from cache)
+392 silly pacote range manifest for inherits@2 fetched in 76ms
+393 silly resolveWithNewModule inherits@2.0.4 checking installable status
+394 http fetch GET 304 https://registry.npmjs.org/path-is-absolute 93ms (from cache)
+395 http fetch GET 304 https://registry.npmjs.org/fs.realpath 97ms (from cache)
+396 http fetch GET 304 https://registry.npmjs.org/inflight 96ms (from cache)
+397 silly pacote range manifest for path-is-absolute@^1.0.0 fetched in 97ms
+398 silly resolveWithNewModule path-is-absolute@1.0.1 checking installable status
+399 silly pacote range manifest for fs.realpath@^1.0.0 fetched in 101ms
+400 silly resolveWithNewModule fs.realpath@1.0.0 checking installable status
+401 silly pacote range manifest for inflight@^1.0.4 fetched in 101ms
+402 silly resolveWithNewModule inflight@1.0.6 checking installable status
+403 http fetch GET 304 https://registry.npmjs.org/once 103ms (from cache)
+404 silly pacote range manifest for once@^1.3.0 fetched in 104ms
+405 silly resolveWithNewModule once@1.4.0 checking installable status
+406 http fetch GET 304 https://registry.npmjs.org/wrappy 72ms (from cache)
+407 silly pacote range manifest for wrappy@1 fetched in 73ms
+408 silly resolveWithNewModule wrappy@1.0.2 checking installable status
+409 http fetch GET 304 https://registry.npmjs.org/is-extglob 69ms (from cache)
+410 silly pacote range manifest for is-extglob@^2.1.1 fetched in 70ms
+411 silly resolveWithNewModule is-extglob@2.1.1 checking installable status
+412 http fetch GET 304 https://registry.npmjs.org/type-check 77ms (from cache)
+413 http fetch GET 304 https://registry.npmjs.org/prelude-ls 79ms (from cache)
+414 silly pacote range manifest for type-check@~0.4.0 fetched in 81ms
+415 silly resolveWithNewModule type-check@0.4.0 checking installable status
+416 silly pacote range manifest for prelude-ls@^1.2.1 fetched in 83ms
+417 silly resolveWithNewModule prelude-ls@1.2.1 checking installable status
+418 http fetch GET 304 https://registry.npmjs.org/word-wrap 87ms (from cache)
+419 http fetch GET 304 https://registry.npmjs.org/deep-is 94ms (from cache)
+420 silly pacote range manifest for word-wrap@^1.2.3 fetched in 97ms
+421 silly resolveWithNewModule word-wrap@1.2.3 checking installable status
+422 silly pacote range manifest for deep-is@^0.1.3 fetched in 100ms
+423 silly resolveWithNewModule deep-is@0.1.4 checking installable status
+424 http fetch GET 304 https://registry.npmjs.org/fast-levenshtein 99ms (from cache)
+425 silly pacote range manifest for fast-levenshtein@^2.0.6 fetched in 100ms
+426 silly resolveWithNewModule fast-levenshtein@2.0.6 checking installable status
+427 http fetch GET 304 https://registry.npmjs.org/lru-cache 74ms (from cache)
+428 silly pacote range manifest for lru-cache@^6.0.0 fetched in 75ms
+429 silly resolveWithNewModule lru-cache@6.0.0 checking installable status
+430 http fetch GET 304 https://registry.npmjs.org/yallist 80ms (from cache)
+431 silly pacote range manifest for yallist@^4.0.0 fetched in 82ms
+432 silly resolveWithNewModule yallist@4.0.0 checking installable status
+433 http fetch GET 304 https://registry.npmjs.org/ansi-regex 82ms (from cache)
+434 silly pacote range manifest for ansi-regex@^5.0.1 fetched in 84ms
+435 silly resolveWithNewModule ansi-regex@5.0.1 checking installable status
+436 silly pacote range manifest for ajv@^8.0.1 fetched in 9ms
+437 silly resolveWithNewModule ajv@8.6.3 checking installable status
+438 http fetch GET 304 https://registry.npmjs.org/lodash.truncate 88ms (from cache)
+439 http fetch GET 304 https://registry.npmjs.org/string-width 88ms (from cache)
+440 http fetch GET 304 https://registry.npmjs.org/slice-ansi 89ms (from cache)
+441 http fetch GET 304 https://registry.npmjs.org/lodash.clonedeep 90ms (from cache)
+442 silly pacote range manifest for lodash.truncate@^4.4.2 fetched in 91ms
+443 silly resolveWithNewModule lodash.truncate@4.4.2 checking installable status
+444 silly pacote range manifest for string-width@^4.2.0 fetched in 91ms
+445 silly resolveWithNewModule string-width@4.2.3 checking installable status
+446 silly pacote range manifest for slice-ansi@^4.0.0 fetched in 92ms
+447 silly resolveWithNewModule slice-ansi@4.0.0 checking installable status
+448 silly pacote range manifest for lodash.clonedeep@^4.5.0 fetched in 94ms
+449 silly resolveWithNewModule lodash.clonedeep@4.5.0 checking installable status
+450 silly pacote range manifest for json-schema-traverse@^1.0.0 fetched in 3ms
+451 silly resolveWithNewModule json-schema-traverse@1.0.0 checking installable status
+452 http fetch GET 304 https://registry.npmjs.org/require-from-string 89ms (from cache)
+453 silly pacote range manifest for require-from-string@^2.0.2 fetched in 92ms
+454 silly resolveWithNewModule require-from-string@2.0.2 checking installable status
+455 silly pacote range manifest for ansi-styles@^4.0.0 fetched in 7ms
+456 silly resolveWithNewModule ansi-styles@4.3.0 checking installable status
+457 http fetch GET 304 https://registry.npmjs.org/astral-regex 94ms (from cache)
+458 http fetch GET 304 https://registry.npmjs.org/is-fullwidth-code-point 99ms (from cache)
+459 silly pacote range manifest for astral-regex@^2.0.0 fetched in 101ms
+460 silly resolveWithNewModule astral-regex@2.0.0 checking installable status
+461 silly pacote range manifest for is-fullwidth-code-point@^3.0.0 fetched in 103ms
+462 silly resolveWithNewModule is-fullwidth-code-point@3.0.0 checking installable status
+463 silly pacote range manifest for color-convert@^2.0.1 fetched in 1ms
+464 silly resolveWithNewModule color-convert@2.0.1 checking installable status
+465 silly pacote range manifest for color-name@~1.1.4 fetched in 2ms
+466 silly resolveWithNewModule color-name@1.1.4 checking installable status
+467 http fetch GET 304 https://registry.npmjs.org/emoji-regex 77ms (from cache)
+468 silly pacote range manifest for emoji-regex@^8.0.0 fetched in 83ms
+469 silly resolveWithNewModule emoji-regex@8.0.0 checking installable status
+470 timing stage:loadIdealTree:loadAllDepsIntoIdealTree Completed in 4018ms
+471 timing stage:loadIdealTree Completed in 4089ms
+472 silly currentTree lib
+472 silly currentTree └─┬ eslint@7.32.0
+472 silly currentTree   ├── @babel/code-frame@7.12.11
+472 silly currentTree   ├── @babel/helper-validator-identifier@7.15.7
+472 silly currentTree   ├─┬ @babel/highlight@7.14.5
+472 silly currentTree   │ ├── chalk@2.4.2
+472 silly currentTree   │ └── escape-string-regexp@1.0.5
+472 silly currentTree   ├── @eslint/eslintrc@0.4.3
+472 silly currentTree   ├── @humanwhocodes/config-array@0.5.0
+472 silly currentTree   ├── @humanwhocodes/object-schema@1.2.0
+472 silly currentTree   ├── acorn-jsx@5.3.2
+472 silly currentTree   ├── acorn@7.4.1
+472 silly currentTree   ├── ajv@6.12.6
+472 silly currentTree   ├── ansi-colors@4.1.1
+472 silly currentTree   ├── ansi-regex@5.0.1
+472 silly currentTree   ├── ansi-styles@3.2.1
+472 silly currentTree   ├── argparse@1.0.10
+472 silly currentTree   ├── astral-regex@2.0.0
+472 silly currentTree   ├── balanced-match@1.0.2
+472 silly currentTree   ├── brace-expansion@1.1.11
+472 silly currentTree   ├── callsites@3.1.0
+472 silly currentTree   ├─┬ chalk@4.1.2
+472 silly currentTree   │ ├── ansi-styles@4.3.0
+472 silly currentTree   │ ├── color-convert@2.0.1
+472 silly currentTree   │ ├── color-name@1.1.4
+472 silly currentTree   │ ├── has-flag@4.0.0
+472 silly currentTree   │ └── supports-color@7.2.0
+472 silly currentTree   ├── color-convert@1.9.3
+472 silly currentTree   ├── color-name@1.1.3
+472 silly currentTree   ├── concat-map@0.0.1
+472 silly currentTree   ├── cross-spawn@7.0.3
+472 silly currentTree   ├── debug@4.3.2
+472 silly currentTree   ├── deep-is@0.1.4
+472 silly currentTree   ├── doctrine@3.0.0
+472 silly currentTree   ├── emoji-regex@8.0.0
+472 silly currentTree   ├── enquirer@2.3.6
+472 silly currentTree   ├── escape-string-regexp@4.0.0
+472 silly currentTree   ├── eslint-scope@5.1.1
+472 silly currentTree   ├─┬ eslint-utils@2.1.0
+472 silly currentTree   │ └── eslint-visitor-keys@1.3.0
+472 silly currentTree   ├── eslint-visitor-keys@2.1.0
+472 silly currentTree   ├─┬ espree@7.3.1
+472 silly currentTree   │ └── eslint-visitor-keys@1.3.0
+472 silly currentTree   ├── esprima@4.0.1
+472 silly currentTree   ├─┬ esquery@1.4.0
+472 silly currentTree   │ └── estraverse@5.2.0
+472 silly currentTree   ├─┬ esrecurse@4.3.0
+472 silly currentTree   │ └── estraverse@5.2.0
+472 silly currentTree   ├── estraverse@4.3.0
+472 silly currentTree   ├── esutils@2.0.3
+472 silly currentTree   ├── fast-deep-equal@3.1.3
+472 silly currentTree   ├── fast-json-stable-stringify@2.1.0
+472 silly currentTree   ├── fast-levenshtein@2.0.6
+472 silly currentTree   ├── file-entry-cache@6.0.1
+472 silly currentTree   ├── flat-cache@3.0.4
+472 silly currentTree   ├── flatted@3.2.2
+472 silly currentTree   ├── fs.realpath@1.0.0
+472 silly currentTree   ├── functional-red-black-tree@1.0.1
+472 silly currentTree   ├── glob-parent@5.1.2
+472 silly currentTree   ├── glob@7.2.0
+472 silly currentTree   ├── globals@13.11.0
+472 silly currentTree   ├── has-flag@3.0.0
+472 silly currentTree   ├── ignore@4.0.6
+472 silly currentTree   ├── import-fresh@3.3.0
+472 silly currentTree   ├── imurmurhash@0.1.4
+472 silly currentTree   ├── inflight@1.0.6
+472 silly currentTree   ├── inherits@2.0.4
+472 silly currentTree   ├── is-extglob@2.1.1
+472 silly currentTree   ├── is-fullwidth-code-point@3.0.0
+472 silly currentTree   ├── is-glob@4.0.2
+472 silly currentTree   ├── isexe@2.0.0
+472 silly currentTree   ├── js-tokens@4.0.0
+472 silly currentTree   ├── js-yaml@3.14.1
+472 silly currentTree   ├── json-schema-traverse@0.4.1
+472 silly currentTree   ├── json-stable-stringify-without-jsonify@1.0.1
+472 silly currentTree   ├── levn@0.4.1
+472 silly currentTree   ├── lodash.clonedeep@4.5.0
+472 silly currentTree   ├── lodash.merge@4.6.2
+472 silly currentTree   ├── lodash.truncate@4.4.2
+472 silly currentTree   ├── lru-cache@6.0.0
+472 silly currentTree   ├── minimatch@3.0.4
+472 silly currentTree   ├── ms@2.1.2
+472 silly currentTree   ├── natural-compare@1.4.0
+472 silly currentTree   ├── once@1.4.0
+472 silly currentTree   ├── optionator@0.9.1
+472 silly currentTree   ├── parent-module@1.0.1
+472 silly currentTree   ├── path-is-absolute@1.0.1
+472 silly currentTree   ├── path-key@3.1.1
+472 silly currentTree   ├── prelude-ls@1.2.1
+472 silly currentTree   ├── progress@2.0.3
+472 silly currentTree   ├── punycode@2.1.1
+472 silly currentTree   ├── regexpp@3.2.0
+472 silly currentTree   ├── require-from-string@2.0.2
+472 silly currentTree   ├── resolve-from@4.0.0
+472 silly currentTree   ├── rimraf@3.0.2
+472 silly currentTree   ├── semver@7.3.5
+472 silly currentTree   ├── shebang-command@2.0.0
+472 silly currentTree   ├── shebang-regex@3.0.0
+472 silly currentTree   ├─┬ slice-ansi@4.0.0
+472 silly currentTree   │ ├── ansi-styles@4.3.0
+472 silly currentTree   │ ├── color-convert@2.0.1
+472 silly currentTree   │ └── color-name@1.1.4
+472 silly currentTree   ├── sprintf-js@1.0.3
+472 silly currentTree   ├── string-width@4.2.3
+472 silly currentTree   ├── strip-ansi@6.0.1
+472 silly currentTree   ├── strip-json-comments@3.1.1
+472 silly currentTree   ├── supports-color@5.5.0
+472 silly currentTree   ├─┬ table@6.7.1
+472 silly currentTree   │ ├── ajv@8.6.3
+472 silly currentTree   │ └── json-schema-traverse@1.0.0
+472 silly currentTree   ├── text-table@0.2.0
+472 silly currentTree   ├── type-check@0.4.0
+472 silly currentTree   ├── type-fest@0.20.2
+472 silly currentTree   ├── uri-js@4.4.1
+472 silly currentTree   ├── v8-compile-cache@2.3.0
+472 silly currentTree   ├── which@2.0.2
+472 silly currentTree   ├── word-wrap@1.2.3
+472 silly currentTree   ├── wrappy@1.0.2
+472 silly currentTree   └── yallist@4.0.0
+473 silly idealTree lib
+473 silly idealTree └─┬ eslint@7.32.0
+473 silly idealTree   ├── @babel/code-frame@7.12.11
+473 silly idealTree   ├── @babel/helper-validator-identifier@7.15.7
+473 silly idealTree   ├─┬ @babel/highlight@7.14.5
+473 silly idealTree   │ ├── chalk@2.4.2
+473 silly idealTree   │ └── escape-string-regexp@1.0.5
+473 silly idealTree   ├── @eslint/eslintrc@0.4.3
+473 silly idealTree   ├── @humanwhocodes/config-array@0.5.0
+473 silly idealTree   ├── @humanwhocodes/object-schema@1.2.0
+473 silly idealTree   ├── acorn-jsx@5.3.2
+473 silly idealTree   ├── acorn@7.4.1
+473 silly idealTree   ├── ajv@6.12.6
+473 silly idealTree   ├── ansi-colors@4.1.1
+473 silly idealTree   ├── ansi-regex@5.0.1
+473 silly idealTree   ├── ansi-styles@3.2.1
+473 silly idealTree   ├── argparse@1.0.10
+473 silly idealTree   ├── astral-regex@2.0.0
+473 silly idealTree   ├── balanced-match@1.0.2
+473 silly idealTree   ├── brace-expansion@1.1.11
+473 silly idealTree   ├── callsites@3.1.0
+473 silly idealTree   ├─┬ chalk@4.1.2
+473 silly idealTree   │ ├── ansi-styles@4.3.0
+473 silly idealTree   │ ├── color-convert@2.0.1
+473 silly idealTree   │ ├── color-name@1.1.4
+473 silly idealTree   │ ├── has-flag@4.0.0
+473 silly idealTree   │ └── supports-color@7.2.0
+473 silly idealTree   ├── color-convert@1.9.3
+473 silly idealTree   ├── color-name@1.1.3
+473 silly idealTree   ├── concat-map@0.0.1
+473 silly idealTree   ├── cross-spawn@7.0.3
+473 silly idealTree   ├── debug@4.3.2
+473 silly idealTree   ├── deep-is@0.1.4
+473 silly idealTree   ├── doctrine@3.0.0
+473 silly idealTree   ├── emoji-regex@8.0.0
+473 silly idealTree   ├── enquirer@2.3.6
+473 silly idealTree   ├── escape-string-regexp@4.0.0
+473 silly idealTree   ├── eslint-scope@5.1.1
+473 silly idealTree   ├─┬ eslint-utils@2.1.0
+473 silly idealTree   │ └── eslint-visitor-keys@1.3.0
+473 silly idealTree   ├── eslint-visitor-keys@2.1.0
+473 silly idealTree   ├─┬ espree@7.3.1
+473 silly idealTree   │ └── eslint-visitor-keys@1.3.0
+473 silly idealTree   ├── esprima@4.0.1
+473 silly idealTree   ├─┬ esquery@1.4.0
+473 silly idealTree   │ └── estraverse@5.2.0
+473 silly idealTree   ├─┬ esrecurse@4.3.0
+473 silly idealTree   │ └── estraverse@5.2.0
+473 silly idealTree   ├── estraverse@4.3.0
+473 silly idealTree   ├── esutils@2.0.3
+473 silly idealTree   ├── fast-deep-equal@3.1.3
+473 silly idealTree   ├── fast-json-stable-stringify@2.1.0
+473 silly idealTree   ├── fast-levenshtein@2.0.6
+473 silly idealTree   ├── file-entry-cache@6.0.1
+473 silly idealTree   ├── flat-cache@3.0.4
+473 silly idealTree   ├── flatted@3.2.2
+473 silly idealTree   ├── fs.realpath@1.0.0
+473 silly idealTree   ├── functional-red-black-tree@1.0.1
+473 silly idealTree   ├── glob-parent@5.1.2
+473 silly idealTree   ├── glob@7.2.0
+473 silly idealTree   ├── globals@13.11.0
+473 silly idealTree   ├── has-flag@3.0.0
+473 silly idealTree   ├── ignore@4.0.6
+473 silly idealTree   ├── import-fresh@3.3.0
+473 silly idealTree   ├── imurmurhash@0.1.4
+473 silly idealTree   ├── inflight@1.0.6
+473 silly idealTree   ├── inherits@2.0.4
+473 silly idealTree   ├── is-extglob@2.1.1
+473 silly idealTree   ├── is-fullwidth-code-point@3.0.0
+473 silly idealTree   ├── is-glob@4.0.2
+473 silly idealTree   ├── isexe@2.0.0
+473 silly idealTree   ├── js-tokens@4.0.0
+473 silly idealTree   ├── js-yaml@3.14.1
+473 silly idealTree   ├── json-schema-traverse@0.4.1
+473 silly idealTree   ├── json-stable-stringify-without-jsonify@1.0.1
+473 silly idealTree   ├── levn@0.4.1
+473 silly idealTree   ├── lodash.clonedeep@4.5.0
+473 silly idealTree   ├── lodash.merge@4.6.2
+473 silly idealTree   ├── lodash.truncate@4.4.2
+473 silly idealTree   ├── lru-cache@6.0.0
+473 silly idealTree   ├── minimatch@3.0.4
+473 silly idealTree   ├── ms@2.1.2
+473 silly idealTree   ├── natural-compare@1.4.0
+473 silly idealTree   ├── once@1.4.0
+473 silly idealTree   ├── optionator@0.9.1
+473 silly idealTree   ├── parent-module@1.0.1
+473 silly idealTree   ├── path-is-absolute@1.0.1
+473 silly idealTree   ├── path-key@3.1.1
+473 silly idealTree   ├── prelude-ls@1.2.1
+473 silly idealTree   ├── progress@2.0.3
+473 silly idealTree   ├── punycode@2.1.1
+473 silly idealTree   ├── regexpp@3.2.0
+473 silly idealTree   ├── require-from-string@2.0.2
+473 silly idealTree   ├── resolve-from@4.0.0
+473 silly idealTree   ├── rimraf@3.0.2
+473 silly idealTree   ├── semver@7.3.5
+473 silly idealTree   ├── shebang-command@2.0.0
+473 silly idealTree   ├── shebang-regex@3.0.0
+473 silly idealTree   ├─┬ slice-ansi@4.0.0
+473 silly idealTree   │ ├── ansi-styles@4.3.0
+473 silly idealTree   │ ├── color-convert@2.0.1
+473 silly idealTree   │ └── color-name@1.1.4
+473 silly idealTree   ├── sprintf-js@1.0.3
+473 silly idealTree   ├── string-width@4.2.3
+473 silly idealTree   ├── strip-ansi@6.0.1
+473 silly idealTree   ├── strip-json-comments@3.1.1
+473 silly idealTree   ├── supports-color@5.5.0
+473 silly idealTree   ├─┬ table@6.7.1
+473 silly idealTree   │ ├── ajv@8.6.3
+473 silly idealTree   │ └── json-schema-traverse@1.0.0
+473 silly idealTree   ├── text-table@0.2.0
+473 silly idealTree   ├── type-check@0.4.0
+473 silly idealTree   ├── type-fest@0.20.2
+473 silly idealTree   ├── uri-js@4.4.1
+473 silly idealTree   ├── v8-compile-cache@2.3.0
+473 silly idealTree   ├── which@2.0.2
+473 silly idealTree   ├── word-wrap@1.2.3
+473 silly idealTree   ├── wrappy@1.0.2
+473 silly idealTree   └── yallist@4.0.0
+474 silly install generateActionsToTake
+475 warn checkPermissions Missing write access to /usr/local/lib/node_modules/eslint
+476 warn checkPermissions Missing write access to /usr/local/lib/node_modules
+477 timing stage:rollbackFailedOptional Completed in 1ms
+478 timing stage:runTopLevelLifecycles Completed in 4674ms
+479 verbose stack Error: EACCES: permission denied, access '/usr/local/lib/node_modules/eslint'
+480 verbose cwd /Users/Chase
+481 verbose Darwin 20.6.0
+482 verbose argv "/usr/local/bin/node" "/usr/local/bin/npm" "i" "-g" "eslint"
+483 verbose node v14.17.3
+484 verbose npm  v6.14.13
+485 error code EACCES
+486 error syscall access
+487 error path /usr/local/lib/node_modules/eslint
+488 error errno -13
+489 error Error: EACCES: permission denied, access '/usr/local/lib/node_modules/eslint'
+489 error  [Error: EACCES: permission denied, access '/usr/local/lib/node_modules/eslint'] {
+489 error   errno: -13,
+489 error   code: 'EACCES',
+489 error   syscall: 'access',
+489 error   path: '/usr/local/lib/node_modules/eslint'
+489 error }
+490 error The operation was rejected by your operating system.
+490 error It is likely you do not have the permissions to access this file as the current user
+490 error
+490 error If you believe this might be a permissions issue, please double-check the
+490 error permissions of the file and its containing directories, or try running
+490 error the command again as root/Administrator.
+491 verbose exit [ -13, true ]
